@@ -1,0 +1,421 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="Weight" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>02/03/2020</lastmodified>
+    </meta>
+    <nodes>
+      <node id=" Tapwell" label=" Tapwell" />
+      <node id=" Wellborn" label=" Wellborn" />
+      <node id=" Froth" label=" Froth" />
+      <node id=" Alworth" label=" Alworth" />
+      <node id=" Order" label=" Order" />
+      <node id=" Amble" label=" Amble" />
+      <node id=" Furnace" label=" Furnace" />
+      <node id=" Watchall" label=" Watchall" />
+      <node id=" Lady" label=" Lady" />
+      <node id=" Greedy" label=" Greedy" />
+      <node id=" Overreach" label=" Overreach" />
+      <node id=" Marall" label=" Marall" />
+      <node id=" woman" label=" woman" />
+      <node id=" chambermaid" label=" chambermaid" />
+      <node id=" Lovell" label=" Lovell" />
+      <node id=" Margaret" label=" Margaret" />
+      <node id=" 1_creditor" label=" 1_creditor" />
+      <node id=" 2_creditor" label=" 2_creditor" />
+      <node id=" 3_creditor" label=" 3_creditor" />
+      <node id=" Willdo" label=" Willdo" />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Tapwell" target=" Wellborn">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge id="1" source=" Tapwell" target=" Froth">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge id="2" source=" Tapwell" target=" Lady">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="3" source=" Tapwell" target=" Greedy">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="4" source=" Wellborn" target=" Froth">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="5" source=" Wellborn" target=" Alworth">
+        <attvalues>
+          <attvalue for="0" value="28" />
+        </attvalues>
+      </edge>
+      <edge id="6" source=" Wellborn" target=" Overreach">
+        <attvalues>
+          <attvalue for="0" value="42" />
+        </attvalues>
+      </edge>
+      <edge id="7" source=" Wellborn" target=" Furnace">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="8" source=" Wellborn" target=" woman">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="9" source=" Wellborn" target=" Amble">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="10" source=" Wellborn" target=" Order">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="11" source=" Wellborn" target=" chambermaid">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="12" source=" Wellborn" target=" Lady">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </edge>
+      <edge id="13" source=" Wellborn" target=" Marall">
+        <attvalues>
+          <attvalue for="0" value="80" />
+        </attvalues>
+      </edge>
+      <edge id="14" source=" Wellborn" target=" Watchall">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="15" source=" Wellborn" target=" Lovell">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="16" source=" Wellborn" target=" Greedy">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="17" source=" Wellborn" target=" 1_creditor">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="18" source=" Wellborn" target=" 2_creditor">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="19" source=" Wellborn" target=" 3_creditor">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="20" source=" Wellborn" target=" Willdo">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="21" source=" Froth" target=" Greedy">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="22" source=" Alworth" target=" Order">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="23" source=" Alworth" target=" Amble">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="24" source=" Alworth" target=" Lady">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge id="25" source=" Alworth" target=" Greedy">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="26" source=" Alworth" target=" chambermaid">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="27" source=" Alworth" target=" woman">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="28" source=" Alworth" target=" Furnace">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="29" source=" Alworth" target=" Marall">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="30" source=" Alworth" target=" Lovell">
+        <attvalues>
+          <attvalue for="0" value="28" />
+        </attvalues>
+      </edge>
+      <edge id="31" source=" Alworth" target=" Overreach">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge id="32" source=" Alworth" target=" Margaret">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="33" source=" Order" target=" Amble">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="34" source=" Order" target=" Furnace">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge id="35" source=" Order" target=" Watchall">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="36" source=" Order" target=" Lady">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="37" source=" Order" target=" Overreach">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="38" source=" Order" target=" Greedy">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="39" source=" Order" target=" chambermaid">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="40" source=" Order" target=" woman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="41" source=" Order" target=" Marall">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="42" source=" Amble" target=" Furnace">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge id="43" source=" Amble" target=" Watchall">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="44" source=" Amble" target=" Marall">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="45" source=" Amble" target=" Lady">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="46" source=" Amble" target=" woman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="47" source=" Furnace" target=" Watchall">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="48" source=" Furnace" target=" Lady">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="49" source=" Furnace" target=" Greedy">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge id="50" source=" Furnace" target=" Overreach">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="51" source=" Furnace" target=" chambermaid">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="52" source=" Furnace" target=" woman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="53" source=" Furnace" target=" Marall">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="54" source=" Watchall" target=" Greedy">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="55" source=" Watchall" target=" woman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="56" source=" Watchall" target=" Marall">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="57" source=" Lady" target=" woman">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="58" source=" Lady" target=" Marall">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="59" source=" Lady" target=" Greedy">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="60" source=" Lady" target=" Lovell">
+        <attvalues>
+          <attvalue for="0" value="37" />
+        </attvalues>
+      </edge>
+      <edge id="61" source=" Lady" target=" Overreach">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge id="62" source=" Lady" target=" Margaret">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="63" source=" Greedy" target=" Overreach">
+        <attvalues>
+          <attvalue for="0" value="43" />
+        </attvalues>
+      </edge>
+      <edge id="64" source=" Greedy" target=" Marall">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge id="65" source=" Greedy" target=" Lovell">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="66" source=" Overreach" target=" Marall">
+        <attvalues>
+          <attvalue for="0" value="94" />
+        </attvalues>
+      </edge>
+      <edge id="67" source=" Overreach" target=" Margaret">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </edge>
+      <edge id="68" source=" Overreach" target=" Lovell">
+        <attvalues>
+          <attvalue for="0" value="54" />
+        </attvalues>
+      </edge>
+      <edge id="69" source=" Overreach" target=" Willdo">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="70" source=" Marall" target=" woman">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="71" source=" Marall" target=" chambermaid">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="72" source=" Marall" target=" Lovell">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="73" source=" Marall" target=" 3_creditor">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="74" source=" woman" target=" chambermaid">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="75" source=" Lovell" target=" Margaret">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge id="76" source=" Margaret" target=" Willdo">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

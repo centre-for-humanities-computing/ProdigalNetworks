@@ -1,0 +1,5 @@
+,character,direction,word_count,word_rank,BC_rank,difference,ratio
+6,Fitzgerrard,Equal,168,14,14,0,0.0
+14,page,Betweeness,12,17,14,3,0.188
+15,prentice,Betweeness,43,15,13,2,0.125
+16,servant,Betweeness,27,16,14,2,0.125

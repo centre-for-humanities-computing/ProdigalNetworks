@@ -1,0 +1,11 @@
+,character,direction,word_count,word_rank,BC_rank,difference,ratio
+0,1_sergeant,Betweeness,48,23,13,10,0.4
+1,2_sergeant,Betweeness,7,26,20,6,0.24
+4,Chartley,Betweeness,100,20,9,11,0.44
+12,Leapfrog,Betweeness,59,22,10,12,0.48
+18,chamberlain,Words,111,19,20,1,0.04
+19,drawer,Betweeness,46,24,20,4,0.16
+20,hostess,Betweeness,81,21,20,1,0.04
+22,musician,Equal,126,18,18,0,0.0
+23,prentice,Words,155,17,20,3,0.12
+25,tailor,Betweeness,20,25,20,5,0.2

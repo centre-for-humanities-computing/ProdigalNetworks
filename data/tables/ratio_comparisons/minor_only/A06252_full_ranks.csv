@@ -1,0 +1,16 @@
+,character,direction,word_count,word_rank,BC_rank,difference,ratio
+0,1_knight,Betweeness,108,17,15,2,0.071
+1,1_soldier,Betweeness,9,23,15,8,0.286
+2,2_boy,Betweeness,8,24,15,9,0.321
+3,2_knight,Betweeness,94,18,15,3,0.107
+4,2_soldier,Betweeness,8,24,15,9,0.321
+6,Greengoose,Betweeness,29,22,15,7,0.25
+7,Hammerton,Betweeness,6,25,15,10,0.357
+12,Michael,Betweeness,108,17,15,2,0.071
+14,Tim,Betweeness,66,19,14,5,0.179
+15,barber,Betweeness,140,16,15,1,0.036
+19,man,Betweeness,145,15,13,2,0.071
+24,sergeant,Betweeness,53,20,8,12,0.429
+25,servant,Betweeness,5,26,15,11,0.393
+26,tapster,Betweeness,40,21,12,9,0.321
+28,woman,Betweeness,4,27,15,12,0.429

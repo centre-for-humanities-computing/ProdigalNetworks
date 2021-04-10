@@ -1,0 +1,430 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="Weight" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>02/03/2020</lastmodified>
+    </meta>
+    <nodes>
+      <node id=" King_Henry_IV" label=" King_Henry_IV" />
+      <node id=" Westmoreland" label=" Westmoreland" />
+      <node id=" Falstaff" label=" Falstaff" />
+      <node id=" Prince_Hal" label=" Prince_Hal" />
+      <node id=" Poins" label=" Poins" />
+      <node id=" Worcester" label=" Worcester" />
+      <node id=" Northumberland" label=" Northumberland" />
+      <node id=" Hotspur" label=" Hotspur" />
+      <node id=" Blunt" label=" Blunt" />
+      <node id=" first_carrier" label=" first_carrier" />
+      <node id=" ostler" label=" ostler" />
+      <node id=" travelers_second_carrier" label=" travelers_second_carrier" />
+      <node id=" Gadshill" label=" Gadshill" />
+      <node id=" chamberlain" label=" chamberlain" />
+      <node id=" Bardolph" label=" Bardolph" />
+      <node id=" Peto" label=" Peto" />
+      <node id=" first_traveler" label=" first_traveler" />
+      <node id=" Lady_Percy" label=" Lady_Percy" />
+      <node id=" servant" label=" servant" />
+      <node id=" drawer_Francis" label=" drawer_Francis" />
+      <node id=" vintner" label=" vintner" />
+      <node id=" hostess" label=" hostess" />
+      <node id=" sheriff" label=" sheriff" />
+      <node id=" third_carrier" label=" third_carrier" />
+      <node id=" Mortimer" label=" Mortimer" />
+      <node id=" Glendower" label=" Glendower" />
+      <node id=" Douglas" label=" Douglas" />
+      <node id=" third_messenger" label=" third_messenger" />
+      <node id=" Vernon" label=" Vernon" />
+      <node id=" archbishop" label=" archbishop" />
+      <node id=" Sir_Michael" label=" Sir_Michael" />
+      <node id=" first_messenger" label=" first_messenger" />
+      <node id=" second_messenger" label=" second_messenger" />
+      <node id=" Lancaster" label=" Lancaster" />
+    </nodes>
+    <edges>
+      <edge id="0" source=" King_Henry_IV" target=" Westmoreland">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="1" source=" King_Henry_IV" target=" Prince_Hal">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge id="2" source=" King_Henry_IV" target=" Worcester">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="3" source=" King_Henry_IV" target=" Northumberland">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="4" source=" King_Henry_IV" target=" Blunt">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="5" source=" King_Henry_IV" target=" Hotspur">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="6" source=" King_Henry_IV" target=" Mortimer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="7" source=" King_Henry_IV" target=" Falstaff">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="8" source=" King_Henry_IV" target=" archbishop">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="9" source=" King_Henry_IV" target=" Lancaster">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="10" source=" King_Henry_IV" target=" Douglas">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="11" source=" Westmoreland" target=" Falstaff">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="12" source=" Westmoreland" target=" Prince_Hal">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="13" source=" Falstaff" target=" Prince_Hal">
+        <attvalues>
+          <attvalue for="0" value="193" />
+        </attvalues>
+      </edge>
+      <edge id="14" source=" Falstaff" target=" Poins">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge id="15" source=" Falstaff" target=" Gadshill">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="16" source=" Falstaff" target=" first_traveler">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="17" source=" Falstaff" target=" Bardolph">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge id="18" source=" Falstaff" target=" Peto">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="19" source=" Falstaff" target=" hostess">
+        <attvalues>
+          <attvalue for="0" value="34" />
+        </attvalues>
+      </edge>
+      <edge id="20" source=" Falstaff" target=" Hotspur">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="21" source=" Falstaff" target=" Douglas">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="22" source=" Falstaff" target=" Worcester">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="23" source=" Falstaff" target=" Lancaster">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="24" source=" Prince_Hal" target=" Poins">
+        <attvalues>
+          <attvalue for="0" value="39" />
+        </attvalues>
+      </edge>
+      <edge id="25" source=" Prince_Hal" target=" Peto">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="26" source=" Prince_Hal" target=" Lady_Percy">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="27" source=" Prince_Hal" target=" drawer_Francis">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge id="28" source=" Prince_Hal" target=" vintner">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="29" source=" Prince_Hal" target=" Bardolph">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge id="30" source=" Prince_Hal" target=" hostess">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="31" source=" Prince_Hal" target=" sheriff">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="32" source=" Prince_Hal" target=" third_carrier">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="33" source=" Prince_Hal" target=" Worcester">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="34" source=" Prince_Hal" target=" Lancaster">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="35" source=" Prince_Hal" target=" Douglas">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="36" source=" Prince_Hal" target=" Hotspur">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="37" source=" Poins" target=" Gadshill">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="38" source=" Poins" target=" Bardolph">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="39" source=" Poins" target=" Hotspur">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="40" source=" Poins" target=" drawer_Francis">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="41" source=" Worcester" target=" Northumberland">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="42" source=" Worcester" target=" Hotspur">
+        <attvalues>
+          <attvalue for="0" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="43" source=" Worcester" target=" Mortimer">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="44" source=" Worcester" target=" third_messenger">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="45" source=" Worcester" target=" Douglas">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="46" source=" Worcester" target=" Vernon">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="47" source=" Worcester" target=" Blunt">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="48" source=" Northumberland" target=" Hotspur">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge id="49" source=" Hotspur" target=" Blunt">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="50" source=" Hotspur" target=" first_carrier">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="51" source=" Hotspur" target=" Lady_Percy">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </edge>
+      <edge id="52" source=" Hotspur" target=" servant">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="53" source=" Hotspur" target=" Mortimer">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="54" source=" Hotspur" target=" Glendower">
+        <attvalues>
+          <attvalue for="0" value="30" />
+        </attvalues>
+      </edge>
+      <edge id="55" source=" Hotspur" target=" Douglas">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge id="56" source=" Hotspur" target=" third_messenger">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="57" source=" Hotspur" target=" Vernon">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge id="58" source=" Hotspur" target=" first_messenger">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="59" source=" Hotspur" target=" second_messenger">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="60" source=" Blunt" target=" archbishop">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="61" source=" Blunt" target=" Douglas">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="62" source=" first_carrier" target=" ostler">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="63" source=" first_carrier" target=" travelers_second_carrier">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="64" source=" first_carrier" target=" Gadshill">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="65" source=" travelers_second_carrier" target=" Gadshill">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="66" source=" Gadshill" target=" chamberlain">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="67" source=" Gadshill" target=" Bardolph">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="68" source=" Gadshill" target=" Peto">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="69" source=" Bardolph" target=" Peto">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="70" source=" Bardolph" target=" hostess">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="71" source=" Peto" target=" Mortimer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="72" source=" sheriff" target=" third_carrier">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="73" source=" Mortimer" target=" Glendower">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge id="74" source=" Douglas" target=" Vernon">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="75" source=" archbishop" target=" Sir_Michael">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

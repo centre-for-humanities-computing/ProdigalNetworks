@@ -1,0 +1,15 @@
+,character,direction,word_count,word_rank,BC_rank,difference,ratio
+0,2_customer,Betweeness,28,30,22,8,0.235
+1,4_customer,Betweeness,32,29,24,5,0.147
+2,5_customer,Betweeness,5,35,24,11,0.324
+4,Band,Betweeness,160,23,14,9,0.265
+10,Leatherleg,Betweeness,7,34,24,10,0.294
+14,Mortgage,Betweeness,44,27,20,7,0.206
+22,Statute,Betweeness,185,22,17,5,0.147
+25,Wax,Betweeness,61,26,18,8,0.235
+26,bookholder,Betweeness,15,33,24,9,0.265
+27,clerk,Betweeness,68,25,21,4,0.118
+28,dopper,Equal,75,24,24,0,0.0
+30,haberdasher,Betweeness,16,32,24,8,0.235
+31,porter,Betweeness,37,28,24,4,0.118
+34,spurrier,Betweeness,19,31,24,7,0.206

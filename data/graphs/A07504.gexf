@@ -1,0 +1,301 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="Weight" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>02/03/2020</lastmodified>
+    </meta>
+    <nodes>
+      <node id="Ancient" label="Ancient" />
+      <node id="Lieutenant" label="Lieutenant" />
+      <node id="Folly-wit" label="Folly-wit" />
+      <node id="Penitent" label="Penitent" />
+      <node id="courtesan" label="courtesan" />
+      <node id="mother" label="mother" />
+      <node id="Possibility" label="Possibility" />
+      <node id="Inesse" label="Inesse" />
+      <node id="Harebrain" label="Harebrain" />
+      <node id="1_watchman" label="1_watchman" />
+      <node id="2_watchman" label="2_watchman" />
+      <node id="wife" label="wife" />
+      <node id="Bounteous" label="Bounteous" />
+      <node id="Footman" label="Footman" />
+      <node id="Gunwater" label="Gunwater" />
+      <node id="Rafe" label="Rafe" />
+      <node id="succubus" label="succubus" />
+      <node id="Jesper" label="Jesper" />
+      <node id="servant" label="servant" />
+      <node id="constable" label="constable" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Ancient" target="Lieutenant">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="Ancient" target="Folly-wit">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="Ancient" target="Penitent">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="Ancient" target="Bounteous">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="Lieutenant" target="Folly-wit">
+        <attvalues>
+          <attvalue for="0" value="85" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="Lieutenant" target="courtesan">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="Lieutenant" target="Bounteous">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="Lieutenant" target="Possibility">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="Lieutenant" target="Penitent">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="Lieutenant" target="constable">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="Lieutenant" target="Harebrain">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="Folly-wit" target="Bounteous">
+        <attvalues>
+          <attvalue for="0" value="193" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="Folly-wit" target="Footman">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="Folly-wit" target="courtesan">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="Folly-wit" target="1_watchman">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="Folly-wit" target="Penitent">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="Folly-wit" target="Gunwater">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="Folly-wit" target="Harebrain">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="Folly-wit" target="mother">
+        <attvalues>
+          <attvalue for="0" value="41" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="Folly-wit" target="constable">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="Penitent" target="courtesan">
+        <attvalues>
+          <attvalue for="0" value="44" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="Penitent" target="mother">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="Penitent" target="Bounteous">
+        <attvalues>
+          <attvalue for="0" value="50" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="Penitent" target="Harebrain">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="Penitent" target="Possibility">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="Penitent" target="Inesse">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="Penitent" target="wife">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="Penitent" target="succubus">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="Penitent" target="Jesper">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="Penitent" target="servant">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="courtesan" target="mother">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="courtesan" target="Harebrain">
+        <attvalues>
+          <attvalue for="0" value="52" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="courtesan" target="wife">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="courtesan" target="Bounteous">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="courtesan" target="Possibility">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="courtesan" target="Inesse">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="mother" target="Possibility">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="mother" target="Bounteous">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="Possibility" target="Inesse">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="Possibility" target="Harebrain">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="Inesse" target="Harebrain">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="Harebrain" target="1_watchman">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="Harebrain" target="2_watchman">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="Harebrain" target="wife">
+        <attvalues>
+          <attvalue for="0" value="30" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="Harebrain" target="Rafe">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="Harebrain" target="servant">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="Harebrain" target="Bounteous">
+        <attvalues>
+          <attvalue for="0" value="34" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="1_watchman" target="Bounteous">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="Bounteous" target="Footman">
+        <attvalues>
+          <attvalue for="0" value="37" />
+        </attvalues>
+      </edge>
+      <edge id="49" source="Bounteous" target="Gunwater">
+        <attvalues>
+          <attvalue for="0" value="39" />
+        </attvalues>
+      </edge>
+      <edge id="50" source="Bounteous" target="Jesper">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="Bounteous" target="servant">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="Bounteous" target="constable">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

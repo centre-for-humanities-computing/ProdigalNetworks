@@ -1,0 +1,353 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="Weight" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>02/03/2020</lastmodified>
+    </meta>
+    <nodes>
+      <node id=" Careless" label=" Careless" />
+      <node id=" Wat" label=" Wat" />
+      <node id=" Saveall" label=" Saveall" />
+      <node id=" Phebe" label=" Phebe" />
+      <node id=" Saleware" label=" Saleware" />
+      <node id=" prentice" label=" prentice" />
+      <node id=" Thrivewell" label=" Thrivewell" />
+      <node id=" Lady" label=" Lady" />
+      <node id=" Alicia" label=" Alicia" />
+      <node id=" Bellamy" label=" Bellamy" />
+      <node id=" Closet" label=" Closet" />
+      <node id=" Crostill" label=" Crostill" />
+      <node id=" Lovely" label=" Lovely" />
+      <node id=" Bellamy_sr" label=" Bellamy_sr" />
+      <node id=" page" label=" page" />
+      <node id=" servant" label=" servant" />
+      <node id=" Fitzgerrard" label=" Fitzgerrard" />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Careless" target=" Wat">
+        <attvalues>
+          <attvalue for="0" value="79" />
+        </attvalues>
+      </edge>
+      <edge id="1" source=" Careless" target=" Saveall">
+        <attvalues>
+          <attvalue for="0" value="69" />
+        </attvalues>
+      </edge>
+      <edge id="2" source=" Careless" target=" Thrivewell">
+        <attvalues>
+          <attvalue for="0" value="41" />
+        </attvalues>
+      </edge>
+      <edge id="3" source=" Careless" target=" Lady">
+        <attvalues>
+          <attvalue for="0" value="130" />
+        </attvalues>
+      </edge>
+      <edge id="4" source=" Careless" target=" Saleware">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge id="5" source=" Careless" target=" Closet">
+        <attvalues>
+          <attvalue for="0" value="53" />
+        </attvalues>
+      </edge>
+      <edge id="6" source=" Careless" target=" Lovely">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge id="7" source=" Careless" target=" Crostill">
+        <attvalues>
+          <attvalue for="0" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="8" source=" Careless" target=" Bellamy">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="9" source=" Careless" target=" Fitzgerrard">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="10" source=" Careless" target=" Bellamy_sr">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="11" source=" Wat" target=" Saveall">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="12" source=" Wat" target=" Phebe">
+        <attvalues>
+          <attvalue for="0" value="32" />
+        </attvalues>
+      </edge>
+      <edge id="13" source=" Wat" target=" Saleware">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge id="14" source=" Wat" target=" prentice">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="15" source=" Wat" target=" Lady">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="16" source=" Wat" target=" Thrivewell">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="17" source=" Wat" target=" Crostill">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="18" source=" Saveall" target=" Lady">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="19" source=" Saveall" target=" Thrivewell">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="20" source=" Saveall" target=" Crostill">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge id="21" source=" Saveall" target=" Lovely">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="22" source=" Saveall" target=" Bellamy_sr">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="23" source=" Saveall" target=" Closet">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="24" source=" Phebe" target=" Thrivewell">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="25" source=" Phebe" target=" Lady">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="26" source=" Phebe" target=" Saleware">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="27" source=" Phebe" target=" Closet">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="28" source=" Phebe" target=" Crostill">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="29" source=" Saleware" target=" Alicia">
+        <attvalues>
+          <attvalue for="0" value="99" />
+        </attvalues>
+      </edge>
+      <edge id="30" source=" Saleware" target=" Bellamy">
+        <attvalues>
+          <attvalue for="0" value="32" />
+        </attvalues>
+      </edge>
+      <edge id="31" source=" Saleware" target=" Lady">
+        <attvalues>
+          <attvalue for="0" value="27" />
+        </attvalues>
+      </edge>
+      <edge id="32" source=" Saleware" target=" Lovely">
+        <attvalues>
+          <attvalue for="0" value="29" />
+        </attvalues>
+      </edge>
+      <edge id="33" source=" Saleware" target=" Crostill">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="34" source=" Saleware" target=" Thrivewell">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="35" source=" Saleware" target=" Bellamy_sr">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="36" source=" prentice" target=" Lady">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="37" source=" prentice" target=" Alicia">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="38" source=" Thrivewell" target=" Lady">
+        <attvalues>
+          <attvalue for="0" value="64" />
+        </attvalues>
+      </edge>
+      <edge id="39" source=" Thrivewell" target=" Alicia">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="40" source=" Thrivewell" target=" Bellamy_sr">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="41" source=" Thrivewell" target=" Closet">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="42" source=" Thrivewell" target=" servant">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="43" source=" Thrivewell" target=" Crostill">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="44" source=" Thrivewell" target=" Lovely">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="45" source=" Lady" target=" Alicia">
+        <attvalues>
+          <attvalue for="0" value="38" />
+        </attvalues>
+      </edge>
+      <edge id="46" source=" Lady" target=" Closet">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </edge>
+      <edge id="47" source=" Lady" target=" Bellamy">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="48" source=" Lady" target=" servant">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="49" source=" Lady" target=" Fitzgerrard">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="50" source=" Lady" target=" Lovely">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="51" source=" Lady" target=" Bellamy_sr">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="52" source=" Alicia" target=" Bellamy">
+        <attvalues>
+          <attvalue for="0" value="107" />
+        </attvalues>
+      </edge>
+      <edge id="53" source=" Alicia" target=" Bellamy_sr">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="54" source=" Alicia" target=" Lovely">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge id="55" source=" Alicia" target=" page">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="56" source=" Bellamy" target=" Lovely">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="57" source=" Bellamy" target=" Crostill">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="58" source=" Bellamy" target=" Bellamy_sr">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="59" source=" Closet" target=" Crostill">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="60" source=" Crostill" target=" Lovely">
+        <attvalues>
+          <attvalue for="0" value="43" />
+        </attvalues>
+      </edge>
+      <edge id="61" source=" Lovely" target=" Bellamy_sr">
+        <attvalues>
+          <attvalue for="0" value="33" />
+        </attvalues>
+      </edge>
+      <edge id="62" source=" Lovely" target=" page">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="63" source=" Lovely" target=" Fitzgerrard">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

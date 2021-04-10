@@ -1,0 +1,482 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="Weight" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>02/03/2020</lastmodified>
+    </meta>
+    <nodes>
+      <node id="Bohan" label="Bohan" />
+      <node id="Oberon" label="Oberon" />
+      <node id="Slipper" label="Slipper" />
+      <node id="King_Scot" label="King_Scot" />
+      <node id="King_Eng" label="King_Eng" />
+      <node id="Dorothea" label="Dorothea" />
+      <node id="Countess" label="Countess" />
+      <node id="Ida" label="Ida" />
+      <node id="Ateukin" label="Ateukin" />
+      <node id="Andrew" label="Andrew" />
+      <node id="Nano" label="Nano" />
+      <node id="Bartram" label="Bartram" />
+      <node id="Eustace" label="Eustace" />
+      <node id="1_servant" label="1_servant" />
+      <node id="bishop_Andrews" label="bishop_Andrews" />
+      <node id="Douglas" label="Douglas" />
+      <node id="Morton" label="Morton" />
+      <node id="purveyor" label="purveyor" />
+      <node id="Jaques" label="Jaques" />
+      <node id="Ross" label="Ross" />
+      <node id="huntsman" label="huntsman" />
+      <node id="ladies" label="ladies" />
+      <node id="tailor" label="tailor" />
+      <node id="shoemaker" label="shoemaker" />
+      <node id="cutler" label="cutler" />
+      <node id="Sir_Cuthbert_Anderson" label="Sir_Cuthbert_Anderson" />
+      <node id="Lady_Anderson" label="Lady_Anderson" />
+      <node id="lawyer" label="lawyer" />
+      <node id="merchant" label="merchant" />
+      <node id="divine" label="divine" />
+      <node id="scout" label="scout" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Bohan" target="Oberon">
+        <attvalues>
+          <attvalue for="0" value="50" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="Bohan" target="Slipper">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="Bohan" target="Bartram">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="Bohan" target="Ateukin">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="Oberon" target="King_Scot">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="Oberon" target="Countess">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="Oberon" target="Andrew">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="Oberon" target="Lady_Anderson">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="Slipper" target="Andrew">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="Slipper" target="Nano">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="Slipper" target="Ateukin">
+        <attvalues>
+          <attvalue for="0" value="37" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="Slipper" target="Countess">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="Slipper" target="Eustace">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="Slipper" target="Bartram">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="Slipper" target="purveyor">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="Slipper" target="tailor">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="Slipper" target="shoemaker">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="Slipper" target="cutler">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="Slipper" target="Dorothea">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="Slipper" target="King_Scot">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="King_Scot" target="King_Eng">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="King_Scot" target="Dorothea">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="King_Scot" target="Countess">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="King_Scot" target="Ida">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="King_Scot" target="Ateukin">
+        <attvalues>
+          <attvalue for="0" value="46" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="King_Scot" target="Nano">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="King_Scot" target="Douglas">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="King_Scot" target="Morton">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="King_Scot" target="bishop_Andrews">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="King_Scot" target="Jaques">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="King_Scot" target="Andrew">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="King_Scot" target="Sir_Cuthbert_Anderson">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="King_Eng" target="Dorothea">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="King_Eng" target="Ateukin">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="King_Eng" target="Douglas">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="King_Eng" target="lawyer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="King_Eng" target="Sir_Cuthbert_Anderson">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="Dorothea" target="Morton">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="Dorothea" target="Nano">
+        <attvalues>
+          <attvalue for="0" value="67" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="Dorothea" target="Douglas">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="Dorothea" target="bishop_Andrews">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="Dorothea" target="Jaques">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="Dorothea" target="Bartram">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="Dorothea" target="Ross">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="Dorothea" target="Lady_Anderson">
+        <attvalues>
+          <attvalue for="0" value="27" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="Dorothea" target="Sir_Cuthbert_Anderson">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="Dorothea" target="Ateukin">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="Dorothea" target="divine">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="Countess" target="Ida">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge id="49" source="Countess" target="Eustace">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="50" source="Countess" target="Ateukin">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="Countess" target="huntsman">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="Countess" target="ladies">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="Ida" target="Eustace">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge id="54" source="Ida" target="Ateukin">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="55" source="Ida" target="huntsman">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="56" source="Ida" target="Jaques">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="57" source="Ateukin" target="Andrew">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </edge>
+      <edge id="58" source="Ateukin" target="Nano">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="59" source="Ateukin" target="Bartram">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="60" source="Ateukin" target="bishop_Andrews">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="61" source="Ateukin" target="Jaques">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge id="62" source="Ateukin" target="huntsman">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="63" source="Andrew" target="Nano">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="64" source="Andrew" target="purveyor">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge id="65" source="Andrew" target="Jaques">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="66" source="Nano" target="bishop_Andrews">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="67" source="Nano" target="Bartram">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="68" source="Nano" target="Ross">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="69" source="Nano" target="Douglas">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="70" source="Nano" target="Jaques">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="71" source="Nano" target="Sir_Cuthbert_Anderson">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="72" source="Nano" target="Lady_Anderson">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge id="73" source="Bartram" target="Eustace">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="74" source="Bartram" target="1_servant">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="75" source="Eustace" target="huntsman">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="76" source="Eustace" target="ladies">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="77" source="bishop_Andrews" target="Douglas">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="78" source="bishop_Andrews" target="Morton">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="79" source="Douglas" target="Morton">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="80" source="purveyor" target="Jaques">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="81" source="Jaques" target="Sir_Cuthbert_Anderson">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="82" source="Sir_Cuthbert_Anderson" target="Lady_Anderson">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="83" source="lawyer" target="merchant">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="84" source="lawyer" target="divine">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="85" source="lawyer" target="scout">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="86" source="divine" target="scout">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

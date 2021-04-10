@@ -1,0 +1,10 @@
+,character,direction,word_count,word_rank,BC_rank,difference,ratio
+0,1_gallant,Betweeness,20,19,16,3,0.125
+1,1_servant,Betweeness,3,25,16,9,0.375
+2,1_wench,Betweeness,11,22,16,6,0.25
+3,2_gallant,Betweeness,18,20,16,4,0.167
+14,drawer,Betweeness,5,24,16,8,0.333
+15,gentleman,Betweeness,16,21,16,5,0.208
+18,owner,Betweeness,118,18,12,6,0.25
+19,rioter,Betweeness,182,17,10,7,0.292
+20,servant,Betweeness,6,23,16,7,0.292

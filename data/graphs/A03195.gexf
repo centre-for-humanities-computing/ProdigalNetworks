@@ -1,0 +1,431 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="Weight" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>02/03/2020</lastmodified>
+    </meta>
+    <nodes>
+      <node id=" Dalavill" label=" Dalavill" />
+      <node id=" young_Geraldine" label=" young_Geraldine" />
+      <node id=" clown" label=" clown" />
+      <node id=" Wincott" label=" Wincott" />
+      <node id=" wife" label=" wife" />
+      <node id=" Prudentilla" label=" Prudentilla" />
+      <node id=" Reignald" label=" Reignald" />
+      <node id=" Robin" label=" Robin" />
+      <node id=" young_Lionel" label=" young_Lionel" />
+      <node id=" Blanda" label=" Blanda" />
+      <node id=" Scapha" label=" Scapha" />
+      <node id=" rioter" label=" rioter" />
+      <node id=" usurer" label=" usurer" />
+      <node id=" 1_gallant" label=" 1_gallant" />
+      <node id=" 2_gallant" label=" 2_gallant" />
+      <node id=" 1_wench" label=" 1_wench" />
+      <node id=" old_Lionel" label=" old_Lionel" />
+      <node id=" 1_servant" label=" 1_servant" />
+      <node id=" old_Geraldine" label=" old_Geraldine" />
+      <node id=" servant" label=" servant" />
+      <node id=" gentleman" label=" gentleman" />
+      <node id=" Bess" label=" Bess" />
+      <node id=" drawer" label=" drawer" />
+      <node id=" Ricott" label=" Ricott" />
+      <node id=" owner" label=" owner" />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Dalavill" target=" young_Geraldine">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="1" source=" Dalavill" target=" clown">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="2" source=" Dalavill" target=" Wincott">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="3" source=" Dalavill" target=" wife">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="4" source=" Dalavill" target=" Prudentilla">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="5" source=" Dalavill" target=" old_Geraldine">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </edge>
+      <edge id="6" source=" Dalavill" target=" gentleman">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="7" source=" Dalavill" target=" usurer">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="8" source=" Dalavill" target=" Reignald">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="9" source=" Dalavill" target=" old_Lionel">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="10" source=" young_Geraldine" target=" clown">
+        <attvalues>
+          <attvalue for="0" value="32" />
+        </attvalues>
+      </edge>
+      <edge id="11" source=" young_Geraldine" target=" Wincott">
+        <attvalues>
+          <attvalue for="0" value="32" />
+        </attvalues>
+      </edge>
+      <edge id="12" source=" young_Geraldine" target=" wife">
+        <attvalues>
+          <attvalue for="0" value="50" />
+        </attvalues>
+      </edge>
+      <edge id="13" source=" young_Geraldine" target=" Prudentilla">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="14" source=" young_Geraldine" target=" old_Geraldine">
+        <attvalues>
+          <attvalue for="0" value="33" />
+        </attvalues>
+      </edge>
+      <edge id="15" source=" young_Geraldine" target=" Bess">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge id="16" source=" young_Geraldine" target=" drawer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="17" source=" young_Geraldine" target=" Reignald">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="18" source=" young_Geraldine" target=" old_Lionel">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="19" source=" young_Geraldine" target=" usurer">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="20" source=" clown" target=" Wincott">
+        <attvalues>
+          <attvalue for="0" value="34" />
+        </attvalues>
+      </edge>
+      <edge id="21" source=" clown" target=" Reignald">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="22" source=" clown" target=" wife">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="23" source=" clown" target=" old_Lionel">
+        <attvalues>
+          <attvalue for="0" value="33" />
+        </attvalues>
+      </edge>
+      <edge id="24" source=" clown" target=" owner">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="25" source=" clown" target=" Robin">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="26" source=" clown" target=" young_Lionel">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="27" source=" clown" target=" Ricott">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="28" source=" clown" target=" usurer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="29" source=" Wincott" target=" wife">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge id="30" source=" Wincott" target=" Prudentilla">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="31" source=" Wincott" target=" young_Lionel">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="32" source=" Wincott" target=" usurer">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="33" source=" Wincott" target=" Reignald">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="34" source=" Wincott" target=" old_Geraldine">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="35" source=" Wincott" target=" old_Lionel">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="36" source=" wife" target=" Prudentilla">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="37" source=" wife" target=" young_Lionel">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="38" source=" wife" target=" old_Geraldine">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="39" source=" Prudentilla" target=" old_Geraldine">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="40" source=" Prudentilla" target=" owner">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="41" source=" Reignald" target=" Robin">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge id="42" source=" Reignald" target=" young_Lionel">
+        <attvalues>
+          <attvalue for="0" value="76" />
+        </attvalues>
+      </edge>
+      <edge id="43" source=" Reignald" target=" 1_gallant">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="44" source=" Reignald" target=" 2_gallant">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="45" source=" Reignald" target=" Blanda">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="46" source=" Reignald" target=" usurer">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge id="47" source=" Reignald" target=" rioter">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="48" source=" Reignald" target=" old_Lionel">
+        <attvalues>
+          <attvalue for="0" value="165" />
+        </attvalues>
+      </edge>
+      <edge id="49" source=" Reignald" target=" old_Geraldine">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="50" source=" Reignald" target=" gentleman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="51" source=" Reignald" target=" Ricott">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="52" source=" Reignald" target=" owner">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="53" source=" Robin" target=" owner">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="54" source=" Robin" target=" old_Lionel">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge id="55" source=" Robin" target=" Ricott">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="56" source=" young_Lionel" target=" Blanda">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge id="57" source=" young_Lionel" target=" Scapha">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge id="58" source=" young_Lionel" target=" rioter">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="59" source=" young_Lionel" target=" 1_gallant">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="60" source=" young_Lionel" target=" 2_gallant">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="61" source=" young_Lionel" target=" 1_wench">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="62" source=" young_Lionel" target=" usurer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="63" source=" young_Lionel" target=" old_Lionel">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="64" source=" Blanda" target=" Scapha">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="65" source=" Blanda" target=" rioter">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="66" source=" rioter" target=" 1_wench">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="67" source=" rioter" target=" usurer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="68" source=" usurer" target=" old_Lionel">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="69" source=" 1_gallant" target=" 2_gallant">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="70" source=" old_Lionel" target=" 1_servant">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="71" source=" old_Lionel" target=" servant">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="72" source=" old_Lionel" target=" Ricott">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge id="73" source=" old_Lionel" target=" owner">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="74" source=" old_Lionel" target=" old_Geraldine">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="75" source=" old_Geraldine" target=" Ricott">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="76" source=" Bess" target=" drawer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="77" source=" Ricott" target=" owner">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

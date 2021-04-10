@@ -1,0 +1,581 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="Weight" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>02/03/2020</lastmodified>
+    </meta>
+    <nodes>
+      <node id=" factor" label=" factor" />
+      <node id=" marchant" label=" marchant" />
+      <node id=" Gresham" label=" Gresham" />
+      <node id=" 1_factor" label=" 1_factor" />
+      <node id=" John" label=" John" />
+      <node id=" 1_prentice" label=" 1_prentice" />
+      <node id=" 2_prentice" label=" 2_prentice" />
+      <node id=" Hobson" label=" Hobson" />
+      <node id=" pedlar" label=" pedlar" />
+      <node id=" Tawnycoat" label=" Tawnycoat" />
+      <node id=" 2_courtier_Lord" label=" 2_courtier_Lord" />
+      <node id=" 1_courtier_Lord" label=" 1_courtier_Lord" />
+      <node id=" 3_courtier_Lord" label=" 3_courtier_Lord" />
+      <node id=" Lady_Ramsey" label=" Lady_Ramsey" />
+      <node id=" Nowell" label=" Nowell" />
+      <node id=" Ramsey" label=" Ramsey" />
+      <node id=" Timothy" label=" Timothy" />
+      <node id=" Honesty" label=" Honesty" />
+      <node id=" Quick" label=" Quick" />
+      <node id=" clown" label=" clown" />
+      <node id=" pursuivant" label=" pursuivant" />
+      <node id=" sword_bearer" label=" sword_bearer" />
+      <node id=" sheriff" label=" sheriff" />
+      <node id=" workman" label=" workman" />
+      <node id=" boy" label=" boy" />
+      <node id=" 1_Lord" label=" 1_Lord" />
+      <node id=" 2_Lord" label=" 2_Lord" />
+      <node id=" interpreter" label=" interpreter" />
+      <node id=" ambassador" label=" ambassador" />
+      <node id=" curtez" label=" curtez" />
+      <node id=" wench" label=" wench" />
+      <node id=" 2_factor" label=" 2_factor" />
+      <node id=" Queen" label=" Queen" />
+      <node id=" Leicester" label=" Leicester" />
+      <node id=" Sussex" label=" Sussex" />
+      <node id=" gentleman" label=" gentleman" />
+      <node id=" Hunsdon" label=" Hunsdon" />
+      <node id=" post" label=" post" />
+      <node id=" captain" label=" captain" />
+      <node id=" Drake" label=" Drake" />
+    </nodes>
+    <edges>
+      <edge id="0" source=" factor" target=" marchant">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="1" source=" factor" target=" Gresham">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="2" source=" marchant" target=" Gresham">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge id="3" source=" marchant" target=" interpreter">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="4" source=" marchant" target=" ambassador">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="5" source=" Gresham" target=" 1_factor">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="6" source=" Gresham" target=" John">
+        <attvalues>
+          <attvalue for="0" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="7" source=" Gresham" target=" Hobson">
+        <attvalues>
+          <attvalue for="0" value="41" />
+        </attvalues>
+      </edge>
+      <edge id="8" source=" Gresham" target=" Nowell">
+        <attvalues>
+          <attvalue for="0" value="29" />
+        </attvalues>
+      </edge>
+      <edge id="9" source=" Gresham" target=" Ramsey">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge id="10" source=" Gresham" target=" Lady_Ramsey">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge id="11" source=" Gresham" target=" Timothy">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="12" source=" Gresham" target=" Quick">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="13" source=" Gresham" target=" clown">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="14" source=" Gresham" target=" Tawnycoat">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="15" source=" Gresham" target=" sword_bearer">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="16" source=" Gresham" target=" sheriff">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="17" source=" Gresham" target=" workman">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="18" source=" Gresham" target=" 1_Lord">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="19" source=" Gresham" target=" interpreter">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="20" source=" Gresham" target=" 2_Lord">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="21" source=" Gresham" target=" Queen">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="22" source=" Gresham" target=" Sussex">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="23" source=" 1_factor" target=" Hobson">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="24" source=" John" target=" 1_prentice">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="25" source=" John" target=" Hobson">
+        <attvalues>
+          <attvalue for="0" value="54" />
+        </attvalues>
+      </edge>
+      <edge id="26" source=" John" target=" Nowell">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="27" source=" John" target=" Timothy">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="28" source=" John" target=" Tawnycoat">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="29" source=" John" target=" Honesty">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="30" source=" John" target=" Quick">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="31" source=" John" target=" curtez">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge id="32" source=" John" target=" wench">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="33" source=" John" target=" 2_factor">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="34" source=" John" target=" Leicester">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="35" source=" John" target=" 1_courtier_Lord">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="36" source=" John" target=" 2_courtier_Lord">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="37" source=" John" target=" Lady_Ramsey">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </edge>
+      <edge id="38" source=" John" target=" Queen">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="39" source=" 1_prentice" target=" 2_prentice">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="40" source=" 1_prentice" target=" Hobson">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="41" source=" 1_prentice" target=" pedlar">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="42" source=" 1_prentice" target=" Tawnycoat">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="43" source=" 2_prentice" target=" Hobson">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="44" source=" 2_prentice" target=" pedlar">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="45" source=" Hobson" target=" Tawnycoat">
+        <attvalues>
+          <attvalue for="0" value="64" />
+        </attvalues>
+      </edge>
+      <edge id="46" source=" Hobson" target=" 2_courtier_Lord">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="47" source=" Hobson" target=" 3_courtier_Lord">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="48" source=" Hobson" target=" 1_courtier_Lord">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="49" source=" Hobson" target=" Lady_Ramsey">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="50" source=" Hobson" target=" Ramsey">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="51" source=" Hobson" target=" Nowell">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="52" source=" Hobson" target=" clown">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="53" source=" Hobson" target=" pursuivant">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="54" source=" Hobson" target=" sheriff">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="55" source=" Hobson" target=" workman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="56" source=" Hobson" target=" boy">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="57" source=" Hobson" target=" Timothy">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="58" source=" Hobson" target=" curtez">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="59" source=" Hobson" target=" wench">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="60" source=" Hobson" target=" 2_factor">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="61" source=" Hobson" target=" Sussex">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="62" source=" Hobson" target=" Queen">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="63" source=" Tawnycoat" target=" 1_courtier_Lord">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge id="64" source=" Tawnycoat" target=" 2_courtier_Lord">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="65" source=" Tawnycoat" target=" pursuivant">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="66" source=" Tawnycoat" target=" Nowell">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="67" source=" Tawnycoat" target=" Lady_Ramsey">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="68" source=" 2_courtier_Lord" target=" 1_courtier_Lord">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="69" source=" 2_courtier_Lord" target=" 3_courtier_Lord">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="70" source=" 2_courtier_Lord" target=" Nowell">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="71" source=" 2_courtier_Lord" target=" Lady_Ramsey">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="72" source=" 1_courtier_Lord" target=" 3_courtier_Lord">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="73" source=" 1_courtier_Lord" target=" Nowell">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="74" source=" 1_courtier_Lord" target=" gentleman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="75" source=" 1_courtier_Lord" target=" Lady_Ramsey">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="76" source=" 3_courtier_Lord" target=" Nowell">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="77" source=" Lady_Ramsey" target=" Nowell">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="78" source=" Lady_Ramsey" target=" Ramsey">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="79" source=" Lady_Ramsey" target=" Queen">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="80" source=" Nowell" target=" Ramsey">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="81" source=" Nowell" target=" workman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="82" source=" Nowell" target=" sheriff">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="83" source=" Nowell" target=" gentleman">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="84" source=" Nowell" target=" Queen">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge id="85" source=" Nowell" target=" Leicester">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="86" source=" Ramsey" target=" sword_bearer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="87" source=" Ramsey" target=" sheriff">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="88" source=" Ramsey" target=" workman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="89" source=" Ramsey" target=" 1_Lord">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="90" source=" Ramsey" target=" 2_Lord">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="91" source=" Ramsey" target=" curtez">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="92" source=" Ramsey" target=" Queen">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="93" source=" Timothy" target=" Honesty">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="94" source=" Honesty" target=" Quick">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="95" source=" Quick" target=" clown">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="96" source=" 1_Lord" target=" 2_Lord">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="97" source=" interpreter" target=" ambassador">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="98" source=" curtez" target=" wench">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="99" source=" Queen" target=" Leicester">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge id="100" source=" Queen" target=" Sussex">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="101" source=" Queen" target=" Hunsdon">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="102" source=" Queen" target=" post">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="103" source=" Queen" target=" captain">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="104" source=" Queen" target=" Drake">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

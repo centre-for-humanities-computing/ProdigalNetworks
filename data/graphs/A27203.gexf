@@ -1,0 +1,361 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="Weight" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>02/03/2020</lastmodified>
+    </meta>
+    <nodes>
+      <node id=" boy" label=" boy" />
+      <node id=" de_Gard" label=" de_Gard" />
+      <node id=" Oriana" label=" Oriana" />
+      <node id=" la_Castre" label=" la_Castre" />
+      <node id=" Mirabel" label=" Mirabel" />
+      <node id=" Pinac" label=" Pinac" />
+      <node id=" Belleur" label=" Belleur" />
+      <node id=" Nantolet" label=" Nantolet" />
+      <node id=" Lugier" label=" Lugier" />
+      <node id=" Rosalura" label=" Rosalura" />
+      <node id=" Lillia_Bianca" label=" Lillia_Bianca" />
+      <node id=" 2_servant" label=" 2_servant" />
+      <node id=" 1_gentleman" label=" 1_gentleman" />
+      <node id=" 2_gentleman" label=" 2_gentleman" />
+      <node id=" Mariana" label=" Mariana" />
+      <node id=" 1_woman" label=" 1_woman" />
+      <node id=" 2_woman" label=" 2_woman" />
+      <node id=" 3_woman" label=" 3_woman" />
+      <node id=" 4_woman" label=" 4_woman" />
+      <node id=" factor" label=" factor" />
+    </nodes>
+    <edges>
+      <edge id="0" source=" boy" target=" de_Gard">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="1" source=" boy" target=" Mirabel">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="2" source=" de_Gard" target=" Oriana">
+        <attvalues>
+          <attvalue for="0" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="3" source=" de_Gard" target=" la_Castre">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge id="4" source=" de_Gard" target=" Nantolet">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="5" source=" de_Gard" target=" Belleur">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="6" source=" de_Gard" target=" Mirabel">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </edge>
+      <edge id="7" source=" de_Gard" target=" Lugier">
+        <attvalues>
+          <attvalue for="0" value="35" />
+        </attvalues>
+      </edge>
+      <edge id="8" source=" de_Gard" target=" Rosalura">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="9" source=" de_Gard" target=" Lillia_Bianca">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="10" source=" Oriana" target=" Mirabel">
+        <attvalues>
+          <attvalue for="0" value="58" />
+        </attvalues>
+      </edge>
+      <edge id="11" source=" Oriana" target=" la_Castre">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="12" source=" Oriana" target=" Rosalura">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge id="13" source=" Oriana" target=" Lugier">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="14" source=" Oriana" target=" Lillia_Bianca">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="15" source=" Oriana" target=" Nantolet">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="16" source=" Oriana" target=" factor">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="17" source=" Oriana" target=" Belleur">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="18" source=" la_Castre" target=" Mirabel">
+        <attvalues>
+          <attvalue for="0" value="30" />
+        </attvalues>
+      </edge>
+      <edge id="19" source=" la_Castre" target=" Nantolet">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge id="20" source=" la_Castre" target=" Lugier">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="21" source=" la_Castre" target=" Belleur">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="22" source=" Mirabel" target=" Pinac">
+        <attvalues>
+          <attvalue for="0" value="48" />
+        </attvalues>
+      </edge>
+      <edge id="23" source=" Mirabel" target=" Belleur">
+        <attvalues>
+          <attvalue for="0" value="116" />
+        </attvalues>
+      </edge>
+      <edge id="24" source=" Mirabel" target=" Nantolet">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="25" source=" Mirabel" target=" Rosalura">
+        <attvalues>
+          <attvalue for="0" value="39" />
+        </attvalues>
+      </edge>
+      <edge id="26" source=" Mirabel" target=" Lillia_Bianca">
+        <attvalues>
+          <attvalue for="0" value="44" />
+        </attvalues>
+      </edge>
+      <edge id="27" source=" Mirabel" target=" Lugier">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="28" source=" Mirabel" target=" 2_servant">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="29" source=" Mirabel" target=" Mariana">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="30" source=" Mirabel" target=" factor">
+        <attvalues>
+          <attvalue for="0" value="49" />
+        </attvalues>
+      </edge>
+      <edge id="31" source=" Pinac" target=" Belleur">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge id="32" source=" Pinac" target=" 2_servant">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge id="33" source=" Pinac" target=" Lillia_Bianca">
+        <attvalues>
+          <attvalue for="0" value="86" />
+        </attvalues>
+      </edge>
+      <edge id="34" source=" Pinac" target=" Rosalura">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="35" source=" Pinac" target=" Mariana">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="36" source=" Pinac" target=" factor">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="37" source=" Pinac" target=" Lugier">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="38" source=" Pinac" target=" Nantolet">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="39" source=" Belleur" target=" Nantolet">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="40" source=" Belleur" target=" Rosalura">
+        <attvalues>
+          <attvalue for="0" value="80" />
+        </attvalues>
+      </edge>
+      <edge id="41" source=" Belleur" target=" 1_gentleman">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="42" source=" Belleur" target=" 2_gentleman">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="43" source=" Belleur" target=" Lillia_Bianca">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge id="44" source=" Belleur" target=" 3_woman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="45" source=" Belleur" target=" 4_woman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="46" source=" Belleur" target=" 1_woman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="47" source=" Belleur" target=" factor">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="48" source=" Nantolet" target=" Lugier">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="49" source=" Nantolet" target=" Rosalura">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="50" source=" Lugier" target=" Rosalura">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge id="51" source=" Lugier" target=" Lillia_Bianca">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="52" source=" Lugier" target=" factor">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="53" source=" Rosalura" target=" Lillia_Bianca">
+        <attvalues>
+          <attvalue for="0" value="44" />
+        </attvalues>
+      </edge>
+      <edge id="54" source=" Rosalura" target=" 1_woman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="55" source=" Rosalura" target=" factor">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="56" source=" Rosalura" target=" 2_servant">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="57" source=" Lillia_Bianca" target=" 2_servant">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="58" source=" Lillia_Bianca" target=" 4_woman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="59" source=" Lillia_Bianca" target=" 1_woman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="60" source=" Lillia_Bianca" target=" factor">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="61" source=" 2_servant" target=" factor">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="62" source=" 1_gentleman" target=" 2_gentleman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="63" source=" 1_woman" target=" 2_woman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="64" source=" 2_woman" target=" 3_woman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

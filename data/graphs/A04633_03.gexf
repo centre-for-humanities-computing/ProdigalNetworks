@@ -1,0 +1,751 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="Weight" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>02/03/2020</lastmodified>
+    </meta>
+    <nodes>
+      <node id=" Mirth" label=" Mirth" />
+      <node id=" prologue" label=" prologue" />
+      <node id=" Tatle" label=" Tatle" />
+      <node id=" Expectation" label=" Expectation" />
+      <node id=" Censure" label=" Censure" />
+      <node id=" bookholder" label=" bookholder" />
+      <node id=" Pennyboy_junior" label=" Pennyboy_junior" />
+      <node id=" Leatherleg" label=" Leatherleg" />
+      <node id=" fashioner" label=" fashioner" />
+      <node id=" Thomas" label=" Thomas" />
+      <node id=" haberdasher" label=" haberdasher" />
+      <node id=" Lickfinger" label=" Lickfinger" />
+      <node id=" Pennyboy_Canter" label=" Pennyboy_Canter" />
+      <node id=" spurrier" label=" spurrier" />
+      <node id=" register" label=" register" />
+      <node id=" clerk" label=" clerk" />
+      <node id=" Pennyboy_senior" label=" Pennyboy_senior" />
+      <node id=" Cymbal" label=" Cymbal" />
+      <node id=" Fitton" label=" Fitton" />
+      <node id=" Pecunia" label=" Pecunia" />
+      <node id=" Picklock" label=" Picklock" />
+      <node id=" Mortgage" label=" Mortgage" />
+      <node id=" Band" label=" Band" />
+      <node id=" Statute" label=" Statute" />
+      <node id=" Broker" label=" Broker" />
+      <node id=" Pyedmantle" label=" Pyedmantle" />
+      <node id=" Almanach" label=" Almanach" />
+      <node id=" Shunfield" label=" Shunfield" />
+      <node id=" Madrigal" label=" Madrigal" />
+      <node id=" Wax" label=" Wax" />
+      <node id=" dopper" label=" dopper" />
+      <node id=" 2_customer" label=" 2_customer" />
+      <node id=" 4_customer" label=" 4_customer" />
+      <node id=" 5_customer" label=" 5_customer" />
+      <node id=" porter" label=" porter" />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Mirth" target=" prologue">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="1" source=" Mirth" target=" Tatle">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge id="2" source=" Mirth" target=" Censure">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge id="3" source=" Mirth" target=" Pennyboy_junior">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="4" source=" Mirth" target=" Expectation">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="5" source=" Mirth" target=" Fitton">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="6" source=" prologue" target=" Tatle">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="7" source=" prologue" target=" Expectation">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="8" source=" prologue" target=" Censure">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="9" source=" Tatle" target=" bookholder">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="10" source=" Tatle" target=" Expectation">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge id="11" source=" Tatle" target=" Censure">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="12" source=" Tatle" target=" Pennyboy_Canter">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="13" source=" Tatle" target=" Pennyboy_junior">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="14" source=" Expectation" target=" Censure">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge id="15" source=" Censure" target=" bookholder">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="16" source=" Censure" target=" Pennyboy_junior">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="17" source=" Censure" target=" Pennyboy_senior">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="18" source=" Censure" target=" Broker">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="19" source=" Pennyboy_junior" target=" Leatherleg">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="20" source=" Pennyboy_junior" target=" fashioner">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </edge>
+      <edge id="21" source=" Pennyboy_junior" target=" Thomas">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge id="22" source=" Pennyboy_junior" target=" haberdasher">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="23" source=" Pennyboy_junior" target=" Lickfinger">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge id="24" source=" Pennyboy_junior" target=" Pennyboy_Canter">
+        <attvalues>
+          <attvalue for="0" value="73" />
+        </attvalues>
+      </edge>
+      <edge id="25" source=" Pennyboy_junior" target=" spurrier">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="26" source=" Pennyboy_junior" target=" register">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="27" source=" Pennyboy_junior" target=" Cymbal">
+        <attvalues>
+          <attvalue for="0" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="28" source=" Pennyboy_junior" target=" Fitton">
+        <attvalues>
+          <attvalue for="0" value="49" />
+        </attvalues>
+      </edge>
+      <edge id="29" source=" Pennyboy_junior" target=" Pecunia">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge id="30" source=" Pennyboy_junior" target=" Picklock">
+        <attvalues>
+          <attvalue for="0" value="63" />
+        </attvalues>
+      </edge>
+      <edge id="31" source=" Pennyboy_junior" target=" Almanach">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="32" source=" Pennyboy_junior" target=" Pennyboy_senior">
+        <attvalues>
+          <attvalue for="0" value="30" />
+        </attvalues>
+      </edge>
+      <edge id="33" source=" Pennyboy_junior" target=" Statute">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="34" source=" Pennyboy_junior" target=" Wax">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="35" source=" Pennyboy_junior" target=" Broker">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="36" source=" Pennyboy_junior" target=" dopper">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="37" source=" Pennyboy_junior" target=" Shunfield">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="38" source=" Pennyboy_junior" target=" Madrigal">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge id="39" source=" Pennyboy_junior" target=" Band">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="40" source=" fashioner" target=" Thomas">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge id="41" source=" Thomas" target=" Cymbal">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="42" source=" Thomas" target=" register">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="43" source=" Thomas" target=" dopper">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="44" source=" Thomas" target=" Lickfinger">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="45" source=" Thomas" target=" 5_customer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="46" source=" Thomas" target=" Almanach">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="47" source=" Thomas" target=" Shunfield">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="48" source=" Thomas" target=" Madrigal">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="49" source=" Thomas" target=" Pecunia">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="50" source=" Thomas" target=" Picklock">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="51" source=" Thomas" target=" Pennyboy_Canter">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="52" source=" Lickfinger" target=" Pennyboy_senior">
+        <attvalues>
+          <attvalue for="0" value="43" />
+        </attvalues>
+      </edge>
+      <edge id="53" source=" Lickfinger" target=" Broker">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="54" source=" Lickfinger" target=" Fitton">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="55" source=" Lickfinger" target=" Shunfield">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="56" source=" Lickfinger" target=" Almanach">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="57" source=" Lickfinger" target=" 2_customer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="58" source=" Lickfinger" target=" Pecunia">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="59" source=" Lickfinger" target=" 4_customer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="60" source=" Lickfinger" target=" 5_customer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="61" source=" Lickfinger" target=" Cymbal">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="62" source=" Lickfinger" target=" Madrigal">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="63" source=" Lickfinger" target=" Picklock">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge id="64" source=" Lickfinger" target=" Pennyboy_Canter">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="65" source=" Pennyboy_Canter" target=" Picklock">
+        <attvalues>
+          <attvalue for="0" value="48" />
+        </attvalues>
+      </edge>
+      <edge id="66" source=" Pennyboy_Canter" target=" Pennyboy_senior">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge id="67" source=" Pennyboy_Canter" target=" Cymbal">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="68" source=" Pennyboy_Canter" target=" Band">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="69" source=" Pennyboy_Canter" target=" Madrigal">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="70" source=" Pennyboy_Canter" target=" Fitton">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="71" source=" Pennyboy_Canter" target=" Pecunia">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="72" source=" Pennyboy_Canter" target=" Shunfield">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="73" source=" Pennyboy_Canter" target=" Pyedmantle">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="74" source=" Pennyboy_Canter" target=" Almanach">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="75" source=" register" target=" clerk">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="76" source=" register" target=" Cymbal">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="77" source=" register" target=" dopper">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge id="78" source=" register" target=" 2_customer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="79" source=" register" target=" Pecunia">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="80" source=" clerk" target=" Pennyboy_senior">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="81" source=" Pennyboy_senior" target=" Cymbal">
+        <attvalues>
+          <attvalue for="0" value="37" />
+        </attvalues>
+      </edge>
+      <edge id="82" source=" Pennyboy_senior" target=" Pecunia">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge id="83" source=" Pennyboy_senior" target=" Mortgage">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="84" source=" Pennyboy_senior" target=" Band">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="85" source=" Pennyboy_senior" target=" Broker">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge id="86" source=" Pennyboy_senior" target=" Fitton">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge id="87" source=" Pennyboy_senior" target=" Almanach">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="88" source=" Pennyboy_senior" target=" Shunfield">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge id="89" source=" Pennyboy_senior" target=" Picklock">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="90" source=" Pennyboy_senior" target=" Statute">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="91" source=" Pennyboy_senior" target=" Wax">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="92" source=" Pennyboy_senior" target=" porter">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="93" source=" Pennyboy_senior" target=" Madrigal">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="94" source=" Cymbal" target=" Fitton">
+        <attvalues>
+          <attvalue for="0" value="64" />
+        </attvalues>
+      </edge>
+      <edge id="95" source=" Cymbal" target=" Pecunia">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="96" source=" Cymbal" target=" Picklock">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="97" source=" Cymbal" target=" Shunfield">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="98" source=" Cymbal" target=" Madrigal">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="99" source=" Cymbal" target=" Almanach">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="100" source=" Fitton" target=" Almanach">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge id="101" source=" Fitton" target=" Shunfield">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge id="102" source=" Fitton" target=" Madrigal">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="103" source=" Fitton" target=" Broker">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="104" source=" Fitton" target=" Picklock">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="105" source=" Fitton" target=" Pecunia">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="106" source=" Fitton" target=" Wax">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="107" source=" Fitton" target=" Band">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="108" source=" Fitton" target=" Pyedmantle">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="109" source=" Pecunia" target=" Band">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="110" source=" Pecunia" target=" Statute">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="111" source=" Pecunia" target=" Mortgage">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="112" source=" Pecunia" target=" Broker">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="113" source=" Pecunia" target=" 2_customer">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="114" source=" Pecunia" target=" 4_customer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="115" source=" Pecunia" target=" Shunfield">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="116" source=" Pecunia" target=" Madrigal">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="117" source=" Pecunia" target=" Picklock">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="118" source=" Pecunia" target=" Almanach">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="119" source=" Pecunia" target=" Pyedmantle">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="120" source=" Picklock" target=" Mortgage">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="121" source=" Picklock" target=" Statute">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="122" source=" Picklock" target=" Band">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="123" source=" Picklock" target=" Broker">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="124" source=" Picklock" target=" Shunfield">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="125" source=" Picklock" target=" Madrigal">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="126" source=" Mortgage" target=" Band">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="127" source=" Mortgage" target=" Statute">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="128" source=" Mortgage" target=" Wax">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="129" source=" Band" target=" Statute">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge id="130" source=" Band" target=" Wax">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="131" source=" Band" target=" Almanach">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="132" source=" Statute" target=" Wax">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="133" source=" Broker" target=" Pyedmantle">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge id="134" source=" Broker" target=" Almanach">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="135" source=" Broker" target=" Madrigal">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="136" source=" Broker" target=" Shunfield">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="137" source=" Almanach" target=" Shunfield">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </edge>
+      <edge id="138" source=" Almanach" target=" Madrigal">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </edge>
+      <edge id="139" source=" Shunfield" target=" Madrigal">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

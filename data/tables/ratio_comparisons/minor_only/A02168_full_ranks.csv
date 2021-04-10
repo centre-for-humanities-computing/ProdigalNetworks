@@ -1,0 +1,12 @@
+,character,direction,word_count,word_rank,BC_rank,difference,ratio
+0,1_servant,Betweeness,8,29,23,6,0.2
+14,Morton,Betweeness,28,26,23,3,0.1
+17,Ross,Equal,66,23,23,0,0.0
+21,cutler,Betweeness,23,28,23,5,0.167
+23,huntsman,Equal,105,22,22,0,0.0
+24,ladies,Betweeness,25,27,23,4,0.133
+26,merchant,Betweeness,61,24,23,1,0.033
+27,purveyor,Equal,134,21,21,0,0.0
+28,scout,Betweeness,25,27,23,4,0.133
+29,shoemaker,Betweeness,55,25,23,2,0.067
+30,tailor,Betweeness,23,28,23,5,0.167

@@ -1,0 +1,448 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="Weight" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>02/03/2020</lastmodified>
+    </meta>
+    <nodes>
+      <node id=" Ballio" label=" Ballio" />
+      <node id=" Simo" label=" Simo" />
+      <node id=" Asotus" label=" Asotus" />
+      <node id=" Tyndarus" label=" Tyndarus" />
+      <node id=" Dypsas" label=" Dypsas" />
+      <node id=" Chremylus" label=" Chremylus" />
+      <node id=" Evadne" label=" Evadne" />
+      <node id=" Techmessa" label=" Techmessa" />
+      <node id=" Paegnion" label=" Paegnion" />
+      <node id=" Pamphilus" label=" Pamphilus" />
+      <node id=" Phronesium" label=" Phronesium" />
+      <node id=" 1_officer" label=" 1_officer" />
+      <node id=" 2_officer" label=" 2_officer" />
+      <node id=" Thrasimachus" label=" Thrasimachus" />
+      <node id=" Hyperbolus" label=" Hyperbolus" />
+      <node id=" Chaerilus" label=" Chaerilus" />
+      <node id=" Bomolocus" label=" Bomolocus" />
+      <node id=" Phryne" label=" Phryne" />
+      <node id=" sexton" label=" sexton" />
+      <node id=" Staphyla" label=" Staphyla" />
+      <node id=" Demetrius" label=" Demetrius" />
+      <node id=" priest" label=" priest" />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Ballio" target=" Simo">
+        <attvalues>
+          <attvalue for="0" value="54" />
+        </attvalues>
+      </edge>
+      <edge id="1" source=" Ballio" target=" Asotus">
+        <attvalues>
+          <attvalue for="0" value="87" />
+        </attvalues>
+      </edge>
+      <edge id="2" source=" Ballio" target=" Tyndarus">
+        <attvalues>
+          <attvalue for="0" value="27" />
+        </attvalues>
+      </edge>
+      <edge id="3" source=" Ballio" target=" Techmessa">
+        <attvalues>
+          <attvalue for="0" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="4" source=" Ballio" target=" Paegnion">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="5" source=" Ballio" target=" Pamphilus">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="6" source=" Ballio" target=" Phronesium">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="7" source=" Ballio" target=" 1_officer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="8" source=" Ballio" target=" 2_officer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="9" source=" Ballio" target=" Dypsas">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="10" source=" Ballio" target=" Phryne">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="11" source=" Ballio" target=" Hyperbolus">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="12" source=" Ballio" target=" sexton">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="13" source=" Ballio" target=" priest">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="14" source=" Simo" target=" Asotus">
+        <attvalues>
+          <attvalue for="0" value="60" />
+        </attvalues>
+      </edge>
+      <edge id="15" source=" Simo" target=" Thrasimachus">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="16" source=" Simo" target=" Chaerilus">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="17" source=" Simo" target=" Phryne">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="18" source=" Simo" target=" Tyndarus">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="19" source=" Simo" target=" Phronesium">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="20" source=" Asotus" target=" Tyndarus">
+        <attvalues>
+          <attvalue for="0" value="63" />
+        </attvalues>
+      </edge>
+      <edge id="21" source=" Asotus" target=" Dypsas">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="22" source=" Asotus" target=" Chremylus">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="23" source=" Asotus" target=" Evadne">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge id="24" source=" Asotus" target=" Techmessa">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="25" source=" Asotus" target=" Paegnion">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="26" source=" Asotus" target=" Phronesium">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="27" source=" Asotus" target=" Pamphilus">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="28" source=" Asotus" target=" Thrasimachus">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="29" source=" Asotus" target=" Hyperbolus">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="30" source=" Asotus" target=" Chaerilus">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="31" source=" Asotus" target=" Bomolocus">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="32" source=" Asotus" target=" Phryne">
+        <attvalues>
+          <attvalue for="0" value="34" />
+        </attvalues>
+      </edge>
+      <edge id="33" source=" Asotus" target=" sexton">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="34" source=" Asotus" target=" Demetrius">
+        <attvalues>
+          <attvalue for="0" value="33" />
+        </attvalues>
+      </edge>
+      <edge id="35" source=" Asotus" target=" priest">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="36" source=" Asotus" target=" Staphyla">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="37" source=" Tyndarus" target=" Chremylus">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="38" source=" Tyndarus" target=" Dypsas">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="39" source=" Tyndarus" target=" Evadne">
+        <attvalues>
+          <attvalue for="0" value="48" />
+        </attvalues>
+      </edge>
+      <edge id="40" source=" Tyndarus" target=" Techmessa">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge id="41" source=" Tyndarus" target=" Pamphilus">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge id="42" source=" Tyndarus" target=" Paegnion">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="43" source=" Tyndarus" target=" Bomolocus">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="44" source=" Tyndarus" target=" Staphyla">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="45" source=" Tyndarus" target=" sexton">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="46" source=" Tyndarus" target=" priest">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="47" source=" Tyndarus" target=" Demetrius">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="48" source=" Dypsas" target=" Chremylus">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="49" source=" Dypsas" target=" Techmessa">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="50" source=" Dypsas" target=" Pamphilus">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="51" source=" Chremylus" target=" Pamphilus">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="52" source=" Chremylus" target=" Evadne">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="53" source=" Chremylus" target=" Demetrius">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="54" source=" Evadne" target=" Techmessa">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge id="55" source=" Evadne" target=" Pamphilus">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge id="56" source=" Evadne" target=" Thrasimachus">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="57" source=" Evadne" target=" Chaerilus">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="58" source=" Evadne" target=" priest">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="59" source=" Techmessa" target=" Paegnion">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="60" source=" Techmessa" target=" Pamphilus">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge id="61" source=" Techmessa" target=" Phronesium">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="62" source=" Techmessa" target=" priest">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="63" source=" Paegnion" target=" 1_officer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="64" source=" Paegnion" target=" Pamphilus">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="65" source=" Pamphilus" target=" Phronesium">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="66" source=" Pamphilus" target=" 2_officer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="67" source=" Pamphilus" target=" priest">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="68" source=" Pamphilus" target=" Demetrius">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="69" source=" Thrasimachus" target=" Hyperbolus">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="70" source=" Thrasimachus" target=" Chaerilus">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="71" source=" Thrasimachus" target=" sexton">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="72" source=" Hyperbolus" target=" Chaerilus">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="73" source=" Hyperbolus" target=" sexton">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="74" source=" Chaerilus" target=" Bomolocus">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge id="75" source=" Bomolocus" target=" Phryne">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="76" source=" Bomolocus" target=" sexton">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="77" source=" Phryne" target=" sexton">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="78" source=" Phryne" target=" priest">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="79" source=" sexton" target=" Staphyla">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge id="80" source=" sexton" target=" priest">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="81" source=" Demetrius" target=" priest">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

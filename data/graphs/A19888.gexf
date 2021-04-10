@@ -1,0 +1,403 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="Weight" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>02/03/2020</lastmodified>
+    </meta>
+    <nodes>
+      <node id=" Anne" label=" Anne" />
+      <node id=" Slightall" label=" Slightall" />
+      <node id=" Changeable" label=" Changeable" />
+      <node id=" wife" label=" wife" />
+      <node id=" Treatwell" label=" Treatwell" />
+      <node id=" usurer" label=" usurer" />
+      <node id=" scrivener" label=" scrivener" />
+      <node id=" Roger" label=" Roger" />
+      <node id=" Gefrey" label=" Gefrey" />
+      <node id=" 1_gentleman" label=" 1_gentleman" />
+      <node id=" 2_gentleman" label=" 2_gentleman" />
+      <node id=" Skales" label=" Skales" />
+      <node id=" Bernard" label=" Bernard" />
+      <node id=" John" label=" John" />
+      <node id=" woman" label=" woman" />
+      <node id=" constable" label=" constable" />
+      <node id=" husband" label=" husband" />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Anne" target=" Slightall">
+        <attvalues>
+          <attvalue for="0" value="30" />
+        </attvalues>
+      </edge>
+      <edge id="1" source=" Anne" target=" Changeable">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </edge>
+      <edge id="2" source=" Anne" target=" wife">
+        <attvalues>
+          <attvalue for="0" value="57" />
+        </attvalues>
+      </edge>
+      <edge id="3" source=" Anne" target=" Treatwell">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="4" source=" Anne" target=" Skales">
+        <attvalues>
+          <attvalue for="0" value="36" />
+        </attvalues>
+      </edge>
+      <edge id="5" source=" Anne" target=" scrivener">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="6" source=" Anne" target=" Bernard">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="7" source=" Anne" target=" Gefrey">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="8" source=" Anne" target=" woman">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="9" source=" Slightall" target=" wife">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="10" source=" Slightall" target=" Treatwell">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="11" source=" Slightall" target=" Changeable">
+        <attvalues>
+          <attvalue for="0" value="125" />
+        </attvalues>
+      </edge>
+      <edge id="12" source=" Slightall" target=" usurer">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="13" source=" Slightall" target=" 1_gentleman">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="14" source=" Slightall" target=" 2_gentleman">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="15" source=" Slightall" target=" Roger">
+        <attvalues>
+          <attvalue for="0" value="59" />
+        </attvalues>
+      </edge>
+      <edge id="16" source=" Slightall" target=" Gefrey">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </edge>
+      <edge id="17" source=" Slightall" target=" scrivener">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="18" source=" Slightall" target=" Skales">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="19" source=" Slightall" target=" Bernard">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="20" source=" Slightall" target=" John">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="21" source=" Changeable" target=" wife">
+        <attvalues>
+          <attvalue for="0" value="65" />
+        </attvalues>
+      </edge>
+      <edge id="22" source=" Changeable" target=" Treatwell">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge id="23" source=" Changeable" target=" Roger">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="24" source=" Changeable" target=" Skales">
+        <attvalues>
+          <attvalue for="0" value="29" />
+        </attvalues>
+      </edge>
+      <edge id="25" source=" Changeable" target=" Gefrey">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="26" source=" Changeable" target=" 1_gentleman">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="27" source=" Changeable" target=" woman">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="28" source=" Changeable" target=" 2_gentleman">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="29" source=" Changeable" target=" John">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="30" source=" Changeable" target=" usurer">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="31" source=" Changeable" target=" scrivener">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="32" source=" Changeable" target=" Bernard">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge id="33" source=" wife" target=" Treatwell">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="34" source=" wife" target=" Skales">
+        <attvalues>
+          <attvalue for="0" value="33" />
+        </attvalues>
+      </edge>
+      <edge id="35" source=" wife" target=" usurer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="36" source=" wife" target=" husband">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="37" source=" wife" target=" Gefrey">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="38" source=" wife" target=" Roger">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="39" source=" Treatwell" target=" Skales">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge id="40" source=" Treatwell" target=" Roger">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="41" source=" Treatwell" target=" woman">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="42" source=" Treatwell" target=" 1_gentleman">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="43" source=" Treatwell" target=" Gefrey">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="44" source=" Treatwell" target=" 2_gentleman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="45" source=" usurer" target=" scrivener">
+        <attvalues>
+          <attvalue for="0" value="66" />
+        </attvalues>
+      </edge>
+      <edge id="46" source=" usurer" target=" Roger">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="47" source=" scrivener" target=" Gefrey">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="48" source=" Roger" target=" Gefrey">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge id="49" source=" Roger" target=" 1_gentleman">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="50" source=" Roger" target=" 2_gentleman">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="51" source=" Roger" target=" Skales">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="52" source=" Gefrey" target=" Skales">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge id="53" source=" Gefrey" target=" 2_gentleman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="54" source=" Gefrey" target=" 1_gentleman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="55" source=" Gefrey" target=" John">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="56" source=" 1_gentleman" target=" woman">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="57" source=" 1_gentleman" target=" Skales">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="58" source=" 1_gentleman" target=" 2_gentleman">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="59" source=" 1_gentleman" target=" John">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="60" source=" 2_gentleman" target=" woman">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="61" source=" 2_gentleman" target=" Skales">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="62" source=" 2_gentleman" target=" John">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="63" source=" Skales" target=" John">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="64" source=" Skales" target=" woman">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="65" source=" Bernard" target=" John">
+        <attvalues>
+          <attvalue for="0" value="32" />
+        </attvalues>
+      </edge>
+      <edge id="66" source=" Bernard" target=" woman">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge id="67" source=" Bernard" target=" husband">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="68" source=" John" target=" woman">
+        <attvalues>
+          <attvalue for="0" value="27" />
+        </attvalues>
+      </edge>
+      <edge id="69" source=" John" target=" constable">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="70" source=" John" target=" husband">
+        <attvalues>
+          <attvalue for="0" value="58" />
+        </attvalues>
+      </edge>
+      <edge id="71" source=" woman" target=" constable">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </edge>
+      <edge id="72" source=" woman" target=" husband">
+        <attvalues>
+          <attvalue for="0" value="29" />
+        </attvalues>
+      </edge>
+      <edge id="73" source=" constable" target=" husband">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

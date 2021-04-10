@@ -1,0 +1,5 @@
+	line_rank	word_rank	WD_rank	BC_rank
+line_rank	1.0	0.96	1.0	0.93
+word_rank	0.96	1.0	0.96	0.84
+WD_rank	1.0	0.96	1.0	0.93
+BC_rank	0.93	0.84	0.93	1.0

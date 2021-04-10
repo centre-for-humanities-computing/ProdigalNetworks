@@ -1,0 +1,10 @@
+,character,direction,word_count,word_rank,BC_rank,difference,ratio
+0,1_watchman,Betweeness,24,18,9,9,0.474
+1,2_watchman,Betweeness,6,19,9,10,0.526
+2,Ancient,Betweeness,114,14,9,5,0.263
+8,Inesse,Betweeness,151,12,9,3,0.158
+9,Jesper,Betweeness,90,17,9,8,0.421
+12,Possibility,Betweeness,112,15,7,8,0.421
+13,Rafe,Betweeness,95,16,9,7,0.368
+14,constable,Betweeness,146,13,9,4,0.211
+17,servant,Betweeness,112,15,9,6,0.316

@@ -1,0 +1,709 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="Weight" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>02/03/2020</lastmodified>
+    </meta>
+    <nodes>
+      <node id=" Lord_Bardolph" label=" Lord_Bardolph" />
+      <node id=" porter" label=" porter" />
+      <node id=" Northumberland" label=" Northumberland" />
+      <node id=" Travers" label=" Travers" />
+      <node id=" Morton" label=" Morton" />
+      <node id=" Falstaff" label=" Falstaff" />
+      <node id=" page" label=" page" />
+      <node id=" Chief_Justice" label=" Chief_Justice" />
+      <node id=" servant" label=" servant" />
+      <node id=" archbishop" label=" archbishop" />
+      <node id=" Lord_Mowbray" label=" Lord_Mowbray" />
+      <node id=" Lord_Hastings" label=" Lord_Hastings" />
+      <node id=" hostess" label=" hostess" />
+      <node id=" officer_Fang" label=" officer_Fang" />
+      <node id=" officer_Snare" label=" officer_Snare" />
+      <node id=" Master_Gower" label=" Master_Gower" />
+      <node id=" Prince_Hal" label=" Prince_Hal" />
+      <node id=" Poins" label=" Poins" />
+      <node id=" Bardolph" label=" Bardolph" />
+      <node id=" Lady_Northumberland" label=" Lady_Northumberland" />
+      <node id=" Lady_Percy" label=" Lady_Percy" />
+      <node id=" Francis" label=" Francis" />
+      <node id=" drawer_first" label=" drawer_first" />
+      <node id=" Will" label=" Will" />
+      <node id=" Doll " label=" Doll " />
+      <node id=" drawer_second" label=" drawer_second" />
+      <node id=" Pistol" label=" Pistol" />
+      <node id=" Peto" label=" Peto" />
+      <node id=" King_Henry_IV" label=" King_Henry_IV" />
+      <node id=" Warwick" label=" Warwick" />
+      <node id=" Shallow" label=" Shallow" />
+      <node id=" Master_Silence" label=" Master_Silence" />
+      <node id=" Mouldy" label=" Mouldy" />
+      <node id=" Shadow" label=" Shadow" />
+      <node id=" Wart" label=" Wart" />
+      <node id=" Feeble" label=" Feeble" />
+      <node id=" Bullcalf" label=" Bullcalf" />
+      <node id=" messenger" label=" messenger" />
+      <node id=" Westmoreland" label=" Westmoreland" />
+      <node id=" Lancaster" label=" Lancaster" />
+      <node id=" Colevile" label=" Colevile" />
+      <node id=" Gloucester" label=" Gloucester" />
+      <node id=" Clarence" label=" Clarence" />
+      <node id=" Harcourt" label=" Harcourt" />
+      <node id=" Davy" label=" Davy" />
+      <node id=" beadle" label=" beadle" />
+      <node id=" groom_first" label=" groom_first" />
+      <node id=" groom_second" label=" groom_second" />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Lord_Bardolph" target=" porter">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="1" source=" Lord_Bardolph" target=" Northumberland">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge id="2" source=" Lord_Bardolph" target=" Morton">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="3" source=" Lord_Bardolph" target=" Lord_Hastings">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="4" source=" Lord_Bardolph" target=" archbishop">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="5" source=" Northumberland" target=" Travers">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="6" source=" Northumberland" target=" Morton">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="7" source=" Northumberland" target=" Falstaff">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="8" source=" Northumberland" target=" Prince_Hal">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="9" source=" Northumberland" target=" Lady_Northumberland">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="10" source=" Northumberland" target=" Lady_Percy">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="11" source=" Northumberland" target=" Francis">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="12" source=" Falstaff" target=" page">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge id="13" source=" Falstaff" target=" Chief_Justice">
+        <attvalues>
+          <attvalue for="0" value="65" />
+        </attvalues>
+      </edge>
+      <edge id="14" source=" Falstaff" target=" servant">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="15" source=" Falstaff" target=" archbishop">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="16" source=" Falstaff" target=" hostess">
+        <attvalues>
+          <attvalue for="0" value="38" />
+        </attvalues>
+      </edge>
+      <edge id="17" source=" Falstaff" target=" officer_Fang">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="18" source=" Falstaff" target=" Master_Gower">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="19" source=" Falstaff" target=" Doll ">
+        <attvalues>
+          <attvalue for="0" value="30" />
+        </attvalues>
+      </edge>
+      <edge id="20" source=" Falstaff" target=" Pistol">
+        <attvalues>
+          <attvalue for="0" value="27" />
+        </attvalues>
+      </edge>
+      <edge id="21" source=" Falstaff" target=" Bardolph">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="22" source=" Falstaff" target=" Prince_Hal">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge id="23" source=" Falstaff" target=" Poins">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="24" source=" Falstaff" target=" Shallow">
+        <attvalues>
+          <attvalue for="0" value="72" />
+        </attvalues>
+      </edge>
+      <edge id="25" source=" Falstaff" target=" Master_Silence">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="26" source=" Falstaff" target=" Mouldy">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="27" source=" Falstaff" target=" Shadow">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="28" source=" Falstaff" target=" Wart">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="29" source=" Falstaff" target=" Feeble">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="30" source=" Falstaff" target=" Bullcalf">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="31" source=" Falstaff" target=" Lancaster">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge id="32" source=" Falstaff" target=" Colevile">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="33" source=" Falstaff" target=" King_Henry_IV">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="34" source=" Falstaff" target=" Warwick">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="35" source=" Falstaff" target=" Davy">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="36" source=" Falstaff" target=" groom_first">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="37" source=" page" target=" Chief_Justice">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="38" source=" page" target=" hostess">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="39" source=" page" target=" Poins">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="40" source=" page" target=" Prince_Hal">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge id="41" source=" page" target=" Bardolph">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="42" source=" page" target=" Pistol">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="43" source=" page" target=" Doll ">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="44" source=" Chief_Justice" target=" servant">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="45" source=" Chief_Justice" target=" hostess">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="46" source=" Chief_Justice" target=" Master_Gower">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="47" source=" Chief_Justice" target=" Prince_Hal">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="48" source=" Chief_Justice" target=" Warwick">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge id="49" source=" Chief_Justice" target=" Lancaster">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="50" source=" Chief_Justice" target=" Gloucester">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="51" source=" Chief_Justice" target=" Clarence">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="52" source=" Chief_Justice" target=" Pistol">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="53" source=" archbishop" target=" Lord_Mowbray">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="54" source=" archbishop" target=" Lord_Hastings">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="55" source=" archbishop" target=" Westmoreland">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge id="56" source=" archbishop" target=" Lancaster">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="57" source=" Lord_Mowbray" target=" Lord_Hastings">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="58" source=" Lord_Mowbray" target=" messenger">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="59" source=" Lord_Mowbray" target=" Westmoreland">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge id="60" source=" Lord_Mowbray" target=" Lancaster">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="61" source=" Lord_Hastings" target=" hostess">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="62" source=" Lord_Hastings" target=" messenger">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="63" source=" Lord_Hastings" target=" Westmoreland">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="64" source=" Lord_Hastings" target=" Lancaster">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="65" source=" hostess" target=" officer_Fang">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="66" source=" hostess" target=" officer_Snare">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="67" source=" hostess" target=" Francis">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="68" source=" hostess" target=" Doll ">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge id="69" source=" hostess" target=" Pistol">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="70" source=" hostess" target=" Bardolph">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="71" source=" hostess" target=" Prince_Hal">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="72" source=" hostess" target=" King_Henry_IV">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="73" source=" hostess" target=" beadle">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="74" source=" officer_Fang" target=" officer_Snare">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="75" source=" Prince_Hal" target=" Poins">
+        <attvalues>
+          <attvalue for="0" value="45" />
+        </attvalues>
+      </edge>
+      <edge id="76" source=" Prince_Hal" target=" Bardolph">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="77" source=" Prince_Hal" target=" Doll ">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="78" source=" Prince_Hal" target=" Peto">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="79" source=" Prince_Hal" target=" Warwick">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="80" source=" Prince_Hal" target=" Clarence">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="81" source=" Prince_Hal" target=" Gloucester">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="82" source=" Prince_Hal" target=" King_Henry_IV">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="83" source=" Prince_Hal" target=" Shallow">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="84" source=" Poins" target=" Bardolph">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="85" source=" Poins" target=" Doll ">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="86" source=" Bardolph" target=" Doll ">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="87" source=" Bardolph" target=" Pistol">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="88" source=" Bardolph" target=" Shallow">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge id="89" source=" Bardolph" target=" Bullcalf">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="90" source=" Bardolph" target=" Mouldy">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="91" source=" Bardolph" target=" Feeble">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="92" source=" Bardolph" target=" Davy">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="93" source=" Lady_Northumberland" target=" Lady_Percy">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="94" source=" Francis" target=" drawer_first">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="95" source=" Francis" target=" Will">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="96" source=" drawer_first" target=" Will">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="97" source=" Doll " target=" drawer_second">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="98" source=" Doll " target=" Pistol">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="99" source=" Doll " target=" beadle">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="100" source=" Pistol" target=" Master_Silence">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="101" source=" Pistol" target=" Shallow">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="102" source=" Pistol" target=" Lancaster">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="103" source=" King_Henry_IV" target=" Warwick">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </edge>
+      <edge id="104" source=" King_Henry_IV" target=" Shallow">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="105" source=" King_Henry_IV" target=" Gloucester">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="106" source=" King_Henry_IV" target=" Clarence">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge id="107" source=" King_Henry_IV" target=" Westmoreland">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="108" source=" King_Henry_IV" target=" Harcourt">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="109" source=" King_Henry_IV" target=" Lancaster">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="110" source=" Warwick" target=" Westmoreland">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="111" source=" Warwick" target=" Clarence">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="112" source=" Warwick" target=" Gloucester">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="113" source=" Warwick" target=" Lancaster">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="114" source=" Shallow" target=" Master_Silence">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </edge>
+      <edge id="115" source=" Shallow" target=" Mouldy">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="116" source=" Shallow" target=" Shadow">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="117" source=" Shallow" target=" Feeble">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="118" source=" Shallow" target=" Bullcalf">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="119" source=" Shallow" target=" Davy">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge id="120" source=" Master_Silence" target=" Davy">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="121" source=" Westmoreland" target=" Lancaster">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="122" source=" Westmoreland" target=" Clarence">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="123" source=" Lancaster" target=" Colevile">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="124" source=" Lancaster" target=" Gloucester">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="125" source=" Lancaster" target=" Clarence">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="126" source=" Gloucester" target=" Clarence">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="127" source=" beadle" target=" groom_first">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="128" source=" groom_first" target=" groom_second">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

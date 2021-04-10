@@ -1,0 +1,503 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="Weight" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>02/03/2020</lastmodified>
+    </meta>
+    <nodes>
+      <node id=" Witgood" label=" Witgood" />
+      <node id=" courtesan" label=" courtesan" />
+      <node id=" 1_creditor" label=" 1_creditor" />
+      <node id=" 2_creditor" label=" 2_creditor" />
+      <node id=" 3_creditor" label=" 3_creditor" />
+      <node id=" host" label=" host" />
+      <node id=" Lamprey" label=" Lamprey" />
+      <node id=" Hoard" label=" Hoard" />
+      <node id=" Lucre" label=" Lucre" />
+      <node id=" Spichcock" label=" Spichcock" />
+      <node id=" Sam" label=" Sam" />
+      <node id=" Moneylove" label=" Moneylove" />
+      <node id=" Gulf" label=" Gulf" />
+      <node id=" Dampit" label=" Dampit" />
+      <node id=" 2_servant" label=" 2_servant" />
+      <node id=" George" label=" George" />
+      <node id=" wife" label=" wife" />
+      <node id=" Niece" label=" Niece" />
+      <node id=" drawer" label=" drawer" />
+      <node id=" bartender_William" label=" bartender_William" />
+      <node id=" boy" label=" boy" />
+      <node id=" vintner" label=" vintner" />
+      <node id=" Audrey" label=" Audrey" />
+      <node id=" servant" label=" servant" />
+      <node id=" tailor" label=" tailor" />
+      <node id=" barber" label=" barber" />
+      <node id=" perfumer" label=" perfumer" />
+      <node id=" falconer" label=" falconer" />
+      <node id=" huntsman" label=" huntsman" />
+      <node id=" scrivener" label=" scrivener" />
+      <node id=" song" label=" song" />
+      <node id=" Lancelot" label=" Lancelot" />
+      <node id=" Arthur" label=" Arthur" />
+      <node id=" Lady" label=" Lady" />
+      <node id=" Onesiphorus" label=" Onesiphorus" />
+      <node id=" Limber" label=" Limber" />
+      <node id=" Kix" label=" Kix" />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Witgood" target=" courtesan">
+        <attvalues>
+          <attvalue for="0" value="54" />
+        </attvalues>
+      </edge>
+      <edge id="1" source=" Witgood" target=" 1_creditor">
+        <attvalues>
+          <attvalue for="0" value="34" />
+        </attvalues>
+      </edge>
+      <edge id="2" source=" Witgood" target=" 2_creditor">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge id="3" source=" Witgood" target=" 3_creditor">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge id="4" source=" Witgood" target=" host">
+        <attvalues>
+          <attvalue for="0" value="52" />
+        </attvalues>
+      </edge>
+      <edge id="5" source=" Witgood" target=" Lamprey">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="6" source=" Witgood" target=" Gulf">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="7" source=" Witgood" target=" Dampit">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge id="8" source=" Witgood" target=" Lucre">
+        <attvalues>
+          <attvalue for="0" value="106" />
+        </attvalues>
+      </edge>
+      <edge id="9" source=" Witgood" target=" Sam">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="10" source=" Witgood" target=" wife">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="11" source=" Witgood" target=" Hoard">
+        <attvalues>
+          <attvalue for="0" value="30" />
+        </attvalues>
+      </edge>
+      <edge id="12" source=" Witgood" target=" drawer">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="13" source=" Witgood" target=" vintner">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="14" source=" Witgood" target=" boy">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="15" source=" Witgood" target=" scrivener">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="16" source=" Witgood" target=" Niece">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="17" source=" Witgood" target=" song">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="18" source=" courtesan" target=" Lucre">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge id="19" source=" courtesan" target=" Hoard">
+        <attvalues>
+          <attvalue for="0" value="53" />
+        </attvalues>
+      </edge>
+      <edge id="20" source=" courtesan" target=" 1_creditor">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="21" source=" courtesan" target=" 2_creditor">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="22" source=" courtesan" target=" drawer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="23" source=" courtesan" target=" host">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="24" source=" courtesan" target=" boy">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="25" source=" courtesan" target=" Lady">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="26" source=" courtesan" target=" Onesiphorus">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="27" source=" 1_creditor" target=" 2_creditor">
+        <attvalues>
+          <attvalue for="0" value="27" />
+        </attvalues>
+      </edge>
+      <edge id="28" source=" 1_creditor" target=" 3_creditor">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="29" source=" 1_creditor" target=" Hoard">
+        <attvalues>
+          <attvalue for="0" value="32" />
+        </attvalues>
+      </edge>
+      <edge id="30" source=" 1_creditor" target=" Lucre">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="31" source=" 1_creditor" target=" Audrey">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="32" source=" 1_creditor" target=" boy">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="33" source=" 1_creditor" target=" host">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="34" source=" 2_creditor" target=" 3_creditor">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="35" source=" 2_creditor" target=" Hoard">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="36" source=" 3_creditor" target=" Hoard">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="37" source=" host" target=" Sam">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="38" source=" host" target=" Lucre">
+        <attvalues>
+          <attvalue for="0" value="67" />
+        </attvalues>
+      </edge>
+      <edge id="39" source=" host" target=" Hoard">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge id="40" source=" host" target=" drawer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="41" source=" Lamprey" target=" Hoard">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="42" source=" Lamprey" target=" Lucre">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="43" source=" Lamprey" target=" Spichcock">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="44" source=" Lamprey" target=" Sam">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="45" source=" Lamprey" target=" Dampit">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge id="46" source=" Lamprey" target=" Lancelot">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge id="47" source=" Lamprey" target=" Gulf">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="48" source=" Lamprey" target=" servant">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="49" source=" Hoard" target=" Lucre">
+        <attvalues>
+          <attvalue for="0" value="33" />
+        </attvalues>
+      </edge>
+      <edge id="50" source=" Hoard" target=" Moneylove">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge id="51" source=" Hoard" target=" Niece">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="52" source=" Hoard" target=" drawer">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="53" source=" Hoard" target=" Spichcock">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="54" source=" Hoard" target=" servant">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="55" source=" Hoard" target=" tailor">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="56" source=" Hoard" target=" barber">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="57" source=" Hoard" target=" perfumer">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="58" source=" Hoard" target=" falconer">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="59" source=" Hoard" target=" huntsman">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="60" source=" Hoard" target=" scrivener">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="61" source=" Hoard" target=" Lancelot">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="62" source=" Hoard" target=" Dampit">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="63" source=" Hoard" target=" Arthur">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="64" source=" Hoard" target=" Lady">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="65" source=" Hoard" target=" Onesiphorus">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="66" source=" Hoard" target=" Limber">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="67" source=" Hoard" target=" Kix">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="68" source=" Lucre" target=" Spichcock">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="69" source=" Lucre" target=" Gulf">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="70" source=" Lucre" target=" 2_servant">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="71" source=" Lucre" target=" George">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge id="72" source=" Lucre" target=" wife">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="73" source=" Lucre" target=" Sam">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="74" source=" Lucre" target=" vintner">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="75" source=" Lucre" target=" Lancelot">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="76" source=" Sam" target=" Moneylove">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="77" source=" Sam" target=" wife">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="78" source=" Gulf" target=" Dampit">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="79" source=" Gulf" target=" Lancelot">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="80" source=" Dampit" target=" Audrey">
+        <attvalues>
+          <attvalue for="0" value="43" />
+        </attvalues>
+      </edge>
+      <edge id="81" source=" Dampit" target=" song">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="82" source=" Dampit" target=" Lancelot">
+        <attvalues>
+          <attvalue for="0" value="27" />
+        </attvalues>
+      </edge>
+      <edge id="83" source=" Dampit" target=" boy">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="84" source=" George" target=" Niece">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="85" source=" Niece" target=" drawer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="86" source=" drawer" target=" bartender_William">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="87" source=" boy" target=" vintner">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="88" source=" boy" target=" Audrey">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="89" source=" Audrey" target=" Lancelot">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

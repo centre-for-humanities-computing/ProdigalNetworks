@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="Weight" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>02/03/2020</lastmodified>
+    </meta>
+    <nodes>
+      <node id=" Loveless_elder" label=" Loveless_elder" />
+      <node id=" Loveless_younger" label=" Loveless_younger" />
+      <node id=" Savil" label=" Savil" />
+      <node id=" Abigal" label=" Abigal" />
+      <node id=" Lady" label=" Lady" />
+      <node id=" Welford" label=" Welford" />
+      <node id=" Roger" label=" Roger" />
+      <node id=" captain" label=" captain" />
+      <node id=" traveler" label=" traveler" />
+      <node id=" poet" label=" poet" />
+      <node id=" Martha" label=" Martha" />
+      <node id=" servant" label=" servant" />
+      <node id=" Moorecraft" label=" Moorecraft" />
+      <node id=" widow" label=" widow" />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Loveless_elder" target=" Loveless_younger">
+        <attvalues>
+          <attvalue for="0" value="78" />
+        </attvalues>
+      </edge>
+      <edge id="1" source=" Loveless_elder" target=" Savil">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="2" source=" Loveless_elder" target=" Abigal">
+        <attvalues>
+          <attvalue for="0" value="59" />
+        </attvalues>
+      </edge>
+      <edge id="3" source=" Loveless_elder" target=" Lady">
+        <attvalues>
+          <attvalue for="0" value="264" />
+        </attvalues>
+      </edge>
+      <edge id="4" source=" Loveless_elder" target=" captain">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="5" source=" Loveless_elder" target=" Welford">
+        <attvalues>
+          <attvalue for="0" value="67" />
+        </attvalues>
+      </edge>
+      <edge id="6" source=" Loveless_elder" target=" Moorecraft">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge id="7" source=" Loveless_elder" target=" widow">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="8" source=" Loveless_elder" target=" Martha">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="9" source=" Loveless_elder" target=" servant">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="10" source=" Loveless_elder" target=" Roger">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="11" source=" Loveless_younger" target=" Abigal">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="12" source=" Loveless_younger" target=" Lady">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="13" source=" Loveless_younger" target=" Savil">
+        <attvalues>
+          <attvalue for="0" value="92" />
+        </attvalues>
+      </edge>
+      <edge id="14" source=" Loveless_younger" target=" captain">
+        <attvalues>
+          <attvalue for="0" value="28" />
+        </attvalues>
+      </edge>
+      <edge id="15" source=" Loveless_younger" target=" traveler">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="16" source=" Loveless_younger" target=" poet">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="17" source=" Loveless_younger" target=" Welford">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="18" source=" Loveless_younger" target=" Moorecraft">
+        <attvalues>
+          <attvalue for="0" value="44" />
+        </attvalues>
+      </edge>
+      <edge id="19" source=" Loveless_younger" target=" widow">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="20" source=" Loveless_younger" target=" servant">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="21" source=" Loveless_younger" target=" Roger">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="22" source=" Savil" target=" Roger">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="23" source=" Savil" target=" captain">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="24" source=" Savil" target=" traveler">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="25" source=" Savil" target=" poet">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="26" source=" Savil" target=" Moorecraft">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge id="27" source=" Savil" target=" widow">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="28" source=" Savil" target=" Abigal">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="29" source=" Savil" target=" Lady">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="30" source=" Abigal" target=" Welford">
+        <attvalues>
+          <attvalue for="0" value="51" />
+        </attvalues>
+      </edge>
+      <edge id="31" source=" Abigal" target=" Roger">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </edge>
+      <edge id="32" source=" Abigal" target=" Martha">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="33" source=" Abigal" target=" Moorecraft">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="34" source=" Abigal" target=" Lady">
+        <attvalues>
+          <attvalue for="0" value="30" />
+        </attvalues>
+      </edge>
+      <edge id="35" source=" Abigal" target=" captain">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="36" source=" Lady" target=" Welford">
+        <attvalues>
+          <attvalue for="0" value="52" />
+        </attvalues>
+      </edge>
+      <edge id="37" source=" Lady" target=" Roger">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="38" source=" Lady" target=" Martha">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="39" source=" Lady" target=" widow">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="40" source=" Lady" target=" Moorecraft">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="41" source=" Welford" target=" Roger">
+        <attvalues>
+          <attvalue for="0" value="54" />
+        </attvalues>
+      </edge>
+      <edge id="42" source=" Welford" target=" Martha">
+        <attvalues>
+          <attvalue for="0" value="27" />
+        </attvalues>
+      </edge>
+      <edge id="43" source=" Welford" target=" servant">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge id="44" source=" Welford" target=" Moorecraft">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="45" source=" Roger" target=" Martha">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="46" source=" captain" target=" poet">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="47" source=" captain" target=" traveler">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="48" source=" captain" target=" Moorecraft">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="49" source=" captain" target=" widow">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="50" source=" traveler" target=" poet">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="51" source=" poet" target=" Moorecraft">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="52" source=" servant" target=" Moorecraft">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="53" source=" Moorecraft" target=" widow">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

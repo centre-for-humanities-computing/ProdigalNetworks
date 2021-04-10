@@ -1,0 +1,6 @@
+,character,direction,word_count,word_rank,BC_rank,difference,ratio
+10,Rafe,Betweeness,74,15,12,3,0.176
+13,citizen,Betweeness,82,14,12,2,0.118
+14,drawer,Betweeness,43,17,12,5,0.294
+16,ruffian,Betweeness,65,16,12,4,0.235
+17,soldier,Betweeness,36,18,12,6,0.353

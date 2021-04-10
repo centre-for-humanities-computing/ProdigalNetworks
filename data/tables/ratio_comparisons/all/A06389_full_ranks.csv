@@ -1,0 +1,15 @@
+,character,direction,word_count,word_rank,BC_rank,difference,ratio
+0,Abigal,Equal,1889,5,5,0,0.0
+1,Lady,Words,3332,2,6,4,0.308
+2,Loveless_elder,Words,6351,1,2,1,0.077
+3,Loveless_younger,Betweeness,3303,3,1,2,0.154
+4,Martha,Words,502,11,12,1,0.077
+5,Moorecraft,Betweeness,994,8,4,4,0.308
+6,Roger,Words,1006,7,9,2,0.154
+7,Savil,Betweeness,1572,6,3,3,0.231
+8,Welford,Words,2448,4,8,4,0.308
+9,captain,Betweeness,908,9,7,2,0.154
+10,poet,Betweeness,235,13,10,3,0.231
+11,servant,Equal,251,12,12,0,0.0
+12,traveler,Betweeness,52,14,12,2,0.154
+13,widow,Words,564,10,11,1,0.077

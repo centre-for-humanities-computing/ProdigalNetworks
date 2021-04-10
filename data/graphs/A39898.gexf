@@ -1,0 +1,384 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="Weight" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>02/03/2020</lastmodified>
+    </meta>
+    <nodes>
+      <node id=" Raybright" label=" Raybright" />
+      <node id=" priest" label=" priest" />
+      <node id=" Time" label=" Time" />
+      <node id=" Folly" label=" Folly" />
+      <node id=" Humour" label=" Humour" />
+      <node id=" Sun" label=" Sun" />
+      <node id=" Spring" label=" Spring" />
+      <node id=" spaniard" label=" spaniard" />
+      <node id=" Health" label=" Health" />
+      <node id=" Delight" label=" Delight" />
+      <node id=" tailor" label=" tailor" />
+      <node id=" dancer" label=" dancer" />
+      <node id=" soldier" label=" soldier" />
+      <node id=" forester" label=" forester" />
+      <node id=" Summer" label=" Summer" />
+      <node id=" Plenty" label=" Plenty" />
+      <node id=" Aeolous" label=" Aeolous" />
+      <node id=" Pomona" label=" Pomona" />
+      <node id=" Fortune" label=" Fortune" />
+      <node id=" Cupid" label=" Cupid" />
+      <node id=" Autumn" label=" Autumn" />
+      <node id=" 1_clown" label=" 1_clown" />
+      <node id=" 2_clown" label=" 2_clown" />
+      <node id=" 3_clown" label=" 3_clown" />
+      <node id=" Winter" label=" Winter" />
+      <node id=" Bounty" label=" Bounty" />
+      <node id=" Conceit" label=" Conceit" />
+      <node id=" Detraction" label=" Detraction" />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Raybright" target=" priest">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge id="1" source=" Raybright" target=" Time">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="2" source=" Raybright" target=" Folly">
+        <attvalues>
+          <attvalue for="0" value="90" />
+        </attvalues>
+      </edge>
+      <edge id="3" source=" Raybright" target=" Humour">
+        <attvalues>
+          <attvalue for="0" value="72" />
+        </attvalues>
+      </edge>
+      <edge id="4" source=" Raybright" target=" Sun">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="5" source=" Raybright" target=" Spring">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge id="6" source=" Raybright" target=" spaniard">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="7" source=" Raybright" target=" Health">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="8" source=" Raybright" target=" dancer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="9" source=" Raybright" target=" soldier">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="10" source=" Raybright" target=" Delight">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="11" source=" Raybright" target=" Summer">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="12" source=" Raybright" target=" Plenty">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="13" source=" Raybright" target=" Pomona">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="14" source=" Raybright" target=" Fortune">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="15" source=" Raybright" target=" Autumn">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge id="16" source=" Raybright" target=" 1_clown">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="17" source=" Raybright" target=" Winter">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="18" source=" Raybright" target=" Bounty">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="19" source=" Time" target=" Folly">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="20" source=" Folly" target=" Humour">
+        <attvalues>
+          <attvalue for="0" value="52" />
+        </attvalues>
+      </edge>
+      <edge id="21" source=" Folly" target=" Sun">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="22" source=" Folly" target=" tailor">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="23" source=" Folly" target=" dancer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="24" source=" Folly" target=" spaniard">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="25" source=" Folly" target=" Spring">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="26" source=" Folly" target=" Health">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="27" source=" Folly" target=" forester">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="28" source=" Folly" target=" Plenty">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="29" source=" Folly" target=" Pomona">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="30" source=" Folly" target=" Autumn">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="31" source=" Folly" target=" Winter">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="32" source=" Folly" target=" 2_clown">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="33" source=" Folly" target=" 1_clown">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="34" source=" Humour" target=" Sun">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="35" source=" Humour" target=" soldier">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="36" source=" Humour" target=" Spring">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="37" source=" Humour" target=" Delight">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="38" source=" Humour" target=" Summer">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="39" source=" Humour" target=" Pomona">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="40" source=" Humour" target=" Winter">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="41" source=" Humour" target=" Bounty">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="42" source=" Sun" target=" Spring">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="43" source=" Sun" target=" Summer">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="44" source=" Sun" target=" Delight">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="45" source=" Sun" target=" Plenty">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="46" source=" Sun" target=" Aeolous">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="47" source=" Spring" target=" Health">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="48" source=" Spring" target=" Delight">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="49" source=" spaniard" target=" Health">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="50" source=" Health" target=" Delight">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="51" source=" Delight" target=" Summer">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="52" source=" Delight" target=" Conceit">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge id="53" source=" forester" target=" Summer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="54" source=" forester" target=" Cupid">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="55" source=" Summer" target=" Aeolous">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="56" source=" Summer" target=" Plenty">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="57" source=" Pomona" target=" Fortune">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="58" source=" Pomona" target=" Autumn">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="59" source=" Fortune" target=" Cupid">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="60" source=" 1_clown" target=" 2_clown">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="61" source=" 1_clown" target=" 3_clown">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="62" source=" 1_clown" target=" Winter">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="63" source=" 2_clown" target=" 3_clown">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="64" source=" 2_clown" target=" Winter">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="65" source=" 3_clown" target=" Winter">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="66" source=" Winter" target=" Conceit">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="67" source=" Conceit" target=" Detraction">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

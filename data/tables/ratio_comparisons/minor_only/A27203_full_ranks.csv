@@ -1,0 +1,9 @@
+,character,direction,word_count,word_rank,BC_rank,difference,ratio
+0,1_gentleman,Equal,34,15,15,0,0.0
+1,1_woman,Betweeness,41,14,4,10,0.526
+2,2_gentleman,Betweeness,22,17,15,2,0.105
+4,2_woman,Betweeness,22,17,13,4,0.211
+5,3_woman,Betweeness,12,18,8,10,0.526
+6,4_woman,Betweeness,26,16,15,1,0.053
+10,Mariana,Equal,34,15,15,0,0.0
+16,boy,Words,118,13,15,2,0.105

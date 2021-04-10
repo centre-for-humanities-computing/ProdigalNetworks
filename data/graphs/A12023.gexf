@@ -1,0 +1,384 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="Weight" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>02/03/2020</lastmodified>
+    </meta>
+    <nodes>
+      <node id=" Uncle" label=" Uncle" />
+      <node id=" father" label=" father" />
+      <node id=" Flowerdale" label=" Flowerdale" />
+      <node id=" Lancelot" label=" Lancelot" />
+      <node id=" Artichoke" label=" Artichoke" />
+      <node id=" Frances" label=" Frances" />
+      <node id=" Weathercock" label=" Weathercock" />
+      <node id=" Luce" label=" Luce" />
+      <node id=" Daffidill" label=" Daffidill" />
+      <node id=" Civet" label=" Civet" />
+      <node id=" drawer" label=" drawer" />
+      <node id=" Arthur" label=" Arthur" />
+      <node id=" soldier" label=" soldier" />
+      <node id=" Oliver" label=" Oliver" />
+      <node id=" Delia" label=" Delia" />
+      <node id=" Rafe" label=" Rafe" />
+      <node id=" ruffian" label=" ruffian" />
+      <node id=" citizen" label=" citizen" />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Uncle" target=" father">
+        <attvalues>
+          <attvalue for="0" value="35" />
+        </attvalues>
+      </edge>
+      <edge id="1" source=" Uncle" target=" Flowerdale">
+        <attvalues>
+          <attvalue for="0" value="55" />
+        </attvalues>
+      </edge>
+      <edge id="2" source=" Uncle" target=" Arthur">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="3" source=" Uncle" target=" Oliver">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="4" source=" Uncle" target=" Lancelot">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="5" source=" Uncle" target=" Luce">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="6" source=" Uncle" target=" Weathercock">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="7" source=" father" target=" Flowerdale">
+        <attvalues>
+          <attvalue for="0" value="62" />
+        </attvalues>
+      </edge>
+      <edge id="8" source=" father" target=" Lancelot">
+        <attvalues>
+          <attvalue for="0" value="36" />
+        </attvalues>
+      </edge>
+      <edge id="9" source=" father" target=" Oliver">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="10" source=" father" target=" Arthur">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="11" source=" father" target=" Weathercock">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="12" source=" father" target=" Luce">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="13" source=" father" target=" Civet">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="14" source=" father" target=" Frances">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="15" source=" father" target=" Delia">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="16" source=" father" target=" Artichoke">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="17" source=" Flowerdale" target=" Frances">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="18" source=" Flowerdale" target=" Lancelot">
+        <attvalues>
+          <attvalue for="0" value="49" />
+        </attvalues>
+      </edge>
+      <edge id="19" source=" Flowerdale" target=" drawer">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="20" source=" Flowerdale" target=" Oliver">
+        <attvalues>
+          <attvalue for="0" value="30" />
+        </attvalues>
+      </edge>
+      <edge id="21" source=" Flowerdale" target=" Weathercock">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="22" source=" Flowerdale" target=" Luce">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </edge>
+      <edge id="23" source=" Flowerdale" target=" Arthur">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="24" source=" Flowerdale" target=" Daffidill">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="25" source=" Flowerdale" target=" Delia">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="26" source=" Flowerdale" target=" Artichoke">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="27" source=" Flowerdale" target=" Civet">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="28" source=" Flowerdale" target=" Rafe">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="29" source=" Flowerdale" target=" ruffian">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="30" source=" Flowerdale" target=" citizen">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="31" source=" Lancelot" target=" Artichoke">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </edge>
+      <edge id="32" source=" Lancelot" target=" Frances">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="33" source=" Lancelot" target=" Weathercock">
+        <attvalues>
+          <attvalue for="0" value="62" />
+        </attvalues>
+      </edge>
+      <edge id="34" source=" Lancelot" target=" Luce">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge id="35" source=" Lancelot" target=" Civet">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="36" source=" Lancelot" target=" Daffidill">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="37" source=" Lancelot" target=" drawer">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="38" source=" Lancelot" target=" Arthur">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge id="39" source=" Lancelot" target=" Oliver">
+        <attvalues>
+          <attvalue for="0" value="35" />
+        </attvalues>
+      </edge>
+      <edge id="40" source=" Lancelot" target=" Delia">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="41" source=" Artichoke" target=" Weathercock">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="42" source=" Artichoke" target=" Oliver">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="43" source=" Artichoke" target=" Civet">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="44" source=" Artichoke" target=" Delia">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="45" source=" Artichoke" target=" Luce">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="46" source=" Frances" target=" Weathercock">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="47" source=" Frances" target=" Luce">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="48" source=" Frances" target=" Civet">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge id="49" source=" Frances" target=" Delia">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="50" source=" Weathercock" target=" Arthur">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="51" source=" Weathercock" target=" Daffidill">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="52" source=" Weathercock" target=" Luce">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="53" source=" Weathercock" target=" Civet">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="54" source=" Weathercock" target=" Oliver">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="55" source=" Luce" target=" Daffidill">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="56" source=" Luce" target=" Arthur">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="57" source=" Luce" target=" Oliver">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="58" source=" Luce" target=" Delia">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="59" source=" Daffidill" target=" Civet">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge id="60" source=" Daffidill" target=" Oliver">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="61" source=" Daffidill" target=" Arthur">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="62" source=" Civet" target=" Delia">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="63" source=" Civet" target=" Oliver">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="64" source=" Civet" target=" Arthur">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="65" source=" Arthur" target=" soldier">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="66" source=" Arthur" target=" Oliver">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge id="67" source=" Arthur" target=" Delia">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="68" source=" soldier" target=" Oliver">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="69" source=" Oliver" target=" Delia">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

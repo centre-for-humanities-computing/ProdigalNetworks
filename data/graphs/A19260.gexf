@@ -1,0 +1,635 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="Weight" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>02/03/2020</lastmodified>
+    </meta>
+    <nodes>
+      <node id=" Ballance" label=" Ballance" />
+      <node id=" Spendall" label=" Spendall" />
+      <node id=" Geraldine" label=" Geraldine" />
+      <node id=" Longfield" label=" Longfield" />
+      <node id=" wench" label=" wench" />
+      <node id=" Gartred" label=" Gartred" />
+      <node id=" boy" label=" boy" />
+      <node id=" Lionel" label=" Lionel" />
+      <node id=" Staines" label=" Staines" />
+      <node id=" Bubble" label=" Bubble" />
+      <node id=" 1_messenger" label=" 1_messenger" />
+      <node id=" 2_sergeant" label=" 2_sergeant" />
+      <node id=" Blanke" label=" Blanke" />
+      <node id=" Rash" label=" Rash" />
+      <node id=" Sweatman" label=" Sweatman" />
+      <node id=" drawer" label=" drawer" />
+      <node id=" Tickleman" label=" Tickleman" />
+      <node id=" Pursenet" label=" Pursenet" />
+      <node id=" swaggerer" label=" swaggerer" />
+      <node id=" Joyce" label=" Joyce" />
+      <node id=" servant(s)" label=" servant(s)" />
+      <node id=" Sprinkle" label=" Sprinkle" />
+      <node id=" Scattergood" label=" Scattergood" />
+      <node id=" Ninnihammer" label=" Ninnihammer" />
+      <node id=" 1_sergeant" label=" 1_sergeant" />
+      <node id=" 3_sergeant" label=" 3_sergeant" />
+      <node id=" Lodge" label=" Lodge" />
+      <node id=" Hold" label=" Hold" />
+      <node id=" fox" label=" fox" />
+      <node id=" prisoner" label=" prisoner" />
+      <node id=" widow" label=" widow" />
+      <node id=" Phillis" label=" Phillis" />
+      <node id=" Baskethilt" label=" Baskethilt" />
+      <node id=" old_Geraldine" label=" old_Geraldine" />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Ballance" target=" Spendall">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="1" source=" Ballance" target=" Lionel">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="2" source=" Spendall" target=" Geraldine">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="3" source=" Spendall" target=" wench">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="4" source=" Spendall" target=" Longfield">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </edge>
+      <edge id="5" source=" Spendall" target=" boy">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge id="6" source=" Spendall" target=" Lionel">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge id="7" source=" Spendall" target=" Rash">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </edge>
+      <edge id="8" source=" Spendall" target=" Sweatman">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="9" source=" Spendall" target=" drawer">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="10" source=" Spendall" target=" Tickleman">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge id="11" source=" Spendall" target=" Pursenet">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge id="12" source=" Spendall" target=" swaggerer">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="13" source=" Spendall" target=" Gartred">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="14" source=" Spendall" target=" Staines">
+        <attvalues>
+          <attvalue for="0" value="51" />
+        </attvalues>
+      </edge>
+      <edge id="15" source=" Spendall" target=" Blanke">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge id="16" source=" Spendall" target=" servant(s)">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="17" source=" Spendall" target=" Scattergood">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="18" source=" Spendall" target=" Bubble">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="19" source=" Spendall" target=" Ninnihammer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="20" source=" Spendall" target=" Joyce">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="21" source=" Spendall" target=" 1_sergeant">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="22" source=" Spendall" target=" 2_sergeant">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="23" source=" Spendall" target=" 3_sergeant">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="24" source=" Spendall" target=" Hold">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="25" source=" Spendall" target=" fox">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="26" source=" Spendall" target=" prisoner">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="27" source=" Spendall" target=" widow">
+        <attvalues>
+          <attvalue for="0" value="46" />
+        </attvalues>
+      </edge>
+      <edge id="28" source=" Spendall" target=" Phillis">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="29" source=" Geraldine" target=" Longfield">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="30" source=" Geraldine" target=" wench">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="31" source=" Geraldine" target=" Gartred">
+        <attvalues>
+          <attvalue for="0" value="33" />
+        </attvalues>
+      </edge>
+      <edge id="32" source=" Geraldine" target=" Bubble">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="33" source=" Geraldine" target=" Rash">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </edge>
+      <edge id="34" source=" Geraldine" target=" Joyce">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge id="35" source=" Geraldine" target=" Lionel">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="36" source=" Geraldine" target=" Staines">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="37" source=" Geraldine" target=" Scattergood">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="38" source=" Longfield" target=" wench">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="39" source=" Longfield" target=" Gartred">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="40" source=" Longfield" target=" Rash">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </edge>
+      <edge id="41" source=" Longfield" target=" Bubble">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="42" source=" Longfield" target=" Staines">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge id="43" source=" Longfield" target=" Scattergood">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge id="44" source=" Longfield" target=" Ninnihammer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="45" source=" Longfield" target=" Joyce">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="46" source=" Longfield" target=" fox">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="47" source=" wench" target=" Gartred">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="48" source=" Gartred" target=" Joyce">
+        <attvalues>
+          <attvalue for="0" value="69" />
+        </attvalues>
+      </edge>
+      <edge id="49" source=" Gartred" target=" Lionel">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="50" source=" Gartred" target=" Staines">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="51" source=" Gartred" target=" Rash">
+        <attvalues>
+          <attvalue for="0" value="30" />
+        </attvalues>
+      </edge>
+      <edge id="52" source=" Gartred" target=" Scattergood">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="53" source=" Gartred" target=" Bubble">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="54" source=" boy" target=" Staines">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="55" source=" Lionel" target=" Staines">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="56" source=" Lionel" target=" Joyce">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="57" source=" Lionel" target=" servant(s)">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge id="58" source=" Lionel" target=" Bubble">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </edge>
+      <edge id="59" source=" Lionel" target=" Scattergood">
+        <attvalues>
+          <attvalue for="0" value="29" />
+        </attvalues>
+      </edge>
+      <edge id="60" source=" Lionel" target=" Rash">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="61" source=" Lionel" target=" widow">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge id="62" source=" Lionel" target=" Baskethilt">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="63" source=" Lionel" target=" old_Geraldine">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="64" source=" Lionel" target=" Phillis">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="65" source=" Lionel" target=" 3_sergeant">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="66" source=" Staines" target=" Bubble">
+        <attvalues>
+          <attvalue for="0" value="85" />
+        </attvalues>
+      </edge>
+      <edge id="67" source=" Staines" target=" Blanke">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="68" source=" Staines" target=" drawer">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="69" source=" Staines" target=" servant(s)">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="70" source=" Staines" target=" Scattergood">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge id="71" source=" Staines" target=" Rash">
+        <attvalues>
+          <attvalue for="0" value="27" />
+        </attvalues>
+      </edge>
+      <edge id="72" source=" Staines" target=" Joyce">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge id="73" source=" Staines" target=" Tickleman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="74" source=" Staines" target=" 3_sergeant">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="75" source=" Bubble" target=" 1_messenger">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="76" source=" Bubble" target=" 2_sergeant">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="77" source=" Bubble" target=" Blanke">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge id="78" source=" Bubble" target=" Sprinkle">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="79" source=" Bubble" target=" Rash">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="80" source=" Bubble" target=" Scattergood">
+        <attvalues>
+          <attvalue for="0" value="54" />
+        </attvalues>
+      </edge>
+      <edge id="81" source=" Bubble" target=" Ninnihammer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="82" source=" Bubble" target=" drawer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="83" source=" Bubble" target=" Joyce">
+        <attvalues>
+          <attvalue for="0" value="39" />
+        </attvalues>
+      </edge>
+      <edge id="84" source=" Bubble" target=" fox">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="85" source=" Bubble" target=" widow">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="86" source=" Bubble" target=" 3_sergeant">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="87" source=" 2_sergeant" target=" 1_sergeant">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="88" source=" 2_sergeant" target=" Tickleman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="89" source=" Blanke" target=" Pursenet">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="90" source=" Blanke" target=" servant(s)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="91" source=" Rash" target=" Pursenet">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="92" source=" Rash" target=" Sweatman">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="93" source=" Rash" target=" swaggerer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="94" source=" Rash" target=" Scattergood">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge id="95" source=" Rash" target=" drawer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="96" source=" Rash" target=" Joyce">
+        <attvalues>
+          <attvalue for="0" value="28" />
+        </attvalues>
+      </edge>
+      <edge id="97" source=" Rash" target=" Lodge">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="98" source=" Rash" target=" widow">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="99" source=" Sweatman" target=" drawer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="100" source=" Sweatman" target=" Pursenet">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="101" source=" Sweatman" target=" Tickleman">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="102" source=" Sweatman" target=" 3_sergeant">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="103" source=" drawer" target=" swaggerer">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="104" source=" drawer" target=" Scattergood">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="105" source=" Tickleman" target=" Pursenet">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="106" source=" Tickleman" target=" 3_sergeant">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="107" source=" Pursenet" target=" 3_sergeant">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="108" source=" Joyce" target=" Scattergood">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="109" source=" servant(s)" target=" Scattergood">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="110" source=" Scattergood" target=" Ninnihammer">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="111" source=" Scattergood" target=" widow">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="112" source=" Scattergood" target=" Baskethilt">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="113" source=" Lodge" target=" Hold">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="114" source=" Hold" target=" fox">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="115" source=" fox" target=" prisoner">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="116" source=" widow" target=" Phillis">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

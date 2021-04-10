@@ -1,0 +1,571 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="Weight" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>02/03/2020</lastmodified>
+    </meta>
+    <nodes>
+      <node id=" Quicksilver" label=" Quicksilver" />
+      <node id=" Touchstone" label=" Touchstone" />
+      <node id=" Golding" label=" Golding" />
+      <node id=" page" label=" page" />
+      <node id=" Gertrude" label=" Gertrude" />
+      <node id=" Mildred" label=" Mildred" />
+      <node id=" Poldavy" label=" Poldavy" />
+      <node id=" Bettrice" label=" Bettrice" />
+      <node id=" Petronel" label=" Petronel" />
+      <node id=" mrs_Touchstone" label=" mrs_Touchstone" />
+      <node id=" Security" label=" Security" />
+      <node id=" Sindefy" label=" Sindefy" />
+      <node id=" Spendall" label=" Spendall" />
+      <node id=" Winifrid" label=" Winifrid" />
+      <node id=" Bramble" label=" Bramble" />
+      <node id=" messenger" label=" messenger" />
+      <node id=" Seagull" label=" Seagull" />
+      <node id=" coachman" label=" coachman" />
+      <node id=" Hamlet" label=" Hamlet" />
+      <node id=" Potkin" label=" Potkin" />
+      <node id=" Fond" label=" Fond" />
+      <node id=" Gazer" label=" Gazer" />
+      <node id=" scrivener" label=" scrivener" />
+      <node id=" Scapethrift" label=" Scapethrift" />
+      <node id=" drawer" label=" drawer" />
+      <node id=" Billingsgate" label=" Billingsgate" />
+      <node id=" Slitgut" label=" Slitgut" />
+      <node id=" 1_gentleman" label=" 1_gentleman" />
+      <node id=" 2_gentleman" label=" 2_gentleman" />
+      <node id=" constable" label=" constable" />
+      <node id=" Wolf" label=" Wolf" />
+      <node id=" Holdfast" label=" Holdfast" />
+      <node id=" friend" label=" friend" />
+      <node id=" 1_prisoner" label=" 1_prisoner" />
+      <node id=" 2_prisoner" label=" 2_prisoner" />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Quicksilver" target=" Touchstone">
+        <attvalues>
+          <attvalue for="0" value="66" />
+        </attvalues>
+      </edge>
+      <edge id="1" source=" Quicksilver" target=" Golding">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </edge>
+      <edge id="2" source=" Quicksilver" target=" Security">
+        <attvalues>
+          <attvalue for="0" value="46" />
+        </attvalues>
+      </edge>
+      <edge id="3" source=" Quicksilver" target=" Sindefy">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="4" source=" Quicksilver" target=" Spendall">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="5" source=" Quicksilver" target=" Petronel">
+        <attvalues>
+          <attvalue for="0" value="70" />
+        </attvalues>
+      </edge>
+      <edge id="6" source=" Quicksilver" target=" Gertrude">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="7" source=" Quicksilver" target=" scrivener">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="8" source=" Quicksilver" target=" Seagull">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="9" source=" Quicksilver" target=" Slitgut">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="10" source=" Quicksilver" target=" Winifrid">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="11" source=" Quicksilver" target=" constable">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="12" source=" Quicksilver" target=" friend">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="13" source=" Quicksilver" target=" Bramble">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="14" source=" Quicksilver" target=" Wolf">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="15" source=" Quicksilver" target=" 1_prisoner">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="16" source=" Touchstone" target=" Golding">
+        <attvalues>
+          <attvalue for="0" value="59" />
+        </attvalues>
+      </edge>
+      <edge id="17" source=" Touchstone" target=" page">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="18" source=" Touchstone" target=" Gertrude">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge id="19" source=" Touchstone" target=" Petronel">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="20" source=" Touchstone" target=" mrs_Touchstone">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="21" source=" Touchstone" target=" Mildred">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="22" source=" Touchstone" target=" Security">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="23" source=" Touchstone" target=" constable">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="24" source=" Touchstone" target=" Spendall">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="25" source=" Touchstone" target=" Wolf">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="26" source=" Touchstone" target=" Sindefy">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="27" source=" Touchstone" target=" friend">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="28" source=" Golding" target=" Gertrude">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="29" source=" Golding" target=" Mildred">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="30" source=" Golding" target=" mrs_Touchstone">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="31" source=" Golding" target=" Petronel">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="32" source=" Golding" target=" constable">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="33" source=" Golding" target=" Spendall">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="34" source=" Golding" target=" Wolf">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="35" source=" Golding" target=" friend">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="36" source=" Gertrude" target=" Mildred">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="37" source=" Gertrude" target=" Poldavy">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="38" source=" Gertrude" target=" Bettrice">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="39" source=" Gertrude" target=" Petronel">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge id="40" source=" Gertrude" target=" mrs_Touchstone">
+        <attvalues>
+          <attvalue for="0" value="35" />
+        </attvalues>
+      </edge>
+      <edge id="41" source=" Gertrude" target=" Security">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge id="42" source=" Gertrude" target=" Sindefy">
+        <attvalues>
+          <attvalue for="0" value="28" />
+        </attvalues>
+      </edge>
+      <edge id="43" source=" Gertrude" target=" Gazer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="44" source=" Gertrude" target=" Hamlet">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="45" source=" Gertrude" target=" scrivener">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="46" source=" Gertrude" target=" Spendall">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="47" source=" Mildred" target=" mrs_Touchstone">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="48" source=" Mildred" target=" Winifrid">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="49" source=" Mildred" target=" Wolf">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="50" source=" Petronel" target=" Security">
+        <attvalues>
+          <attvalue for="0" value="30" />
+        </attvalues>
+      </edge>
+      <edge id="51" source=" Petronel" target=" Bramble">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="52" source=" Petronel" target=" messenger">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="53" source=" Petronel" target=" Seagull">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="54" source=" Petronel" target=" Spendall">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="55" source=" Petronel" target=" mrs_Touchstone">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="56" source=" Petronel" target=" Scapethrift">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="57" source=" Petronel" target=" drawer">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="58" source=" Petronel" target=" 1_gentleman">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="59" source=" Petronel" target=" 2_gentleman">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="60" source=" Petronel" target=" 2_prisoner">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="61" source=" Petronel" target=" Holdfast">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="62" source=" mrs_Touchstone" target=" Hamlet">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="63" source=" mrs_Touchstone" target=" Sindefy">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="64" source=" mrs_Touchstone" target=" Wolf">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="65" source=" Security" target=" Spendall">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="66" source=" Security" target=" Sindefy">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="67" source=" Security" target=" Winifrid">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="68" source=" Security" target=" coachman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="69" source=" Security" target=" Bramble">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="70" source=" Security" target=" Seagull">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="71" source=" Security" target=" drawer">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="72" source=" Security" target=" Billingsgate">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="73" source=" Security" target=" Slitgut">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="74" source=" Security" target=" Holdfast">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="75" source=" Security" target=" Wolf">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="76" source=" Sindefy" target=" Potkin">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="77" source=" Sindefy" target=" Winifrid">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="78" source=" Spendall" target=" drawer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="79" source=" Spendall" target=" Scapethrift">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="80" source=" Spendall" target=" Seagull">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="81" source=" Winifrid" target=" drawer">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="82" source=" Winifrid" target=" Slitgut">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="83" source=" Bramble" target=" messenger">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="84" source=" Bramble" target=" Seagull">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="85" source=" Bramble" target=" Holdfast">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="86" source=" Bramble" target=" 2_prisoner">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="87" source=" Seagull" target=" drawer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="88" source=" Seagull" target=" Scapethrift">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="89" source=" Seagull" target=" 2_gentleman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="90" source=" coachman" target=" Hamlet">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="91" source=" Hamlet" target=" Potkin">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="92" source=" Potkin" target=" Fond">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="93" source=" Fond" target=" Gazer">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="94" source=" Scapethrift" target=" drawer">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="95" source=" drawer" target=" Slitgut">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="96" source=" Billingsgate" target=" Slitgut">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="97" source=" 1_gentleman" target=" 2_gentleman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="98" source=" Wolf" target=" Holdfast">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="99" source=" Wolf" target=" 1_prisoner">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="100" source=" Wolf" target=" friend">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="101" source=" friend" target=" 1_prisoner">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="102" source=" friend" target=" 2_prisoner">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="103" source=" 1_prisoner" target=" 2_prisoner">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
