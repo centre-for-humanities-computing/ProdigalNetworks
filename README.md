@@ -14,9 +14,17 @@ The is presented for evaluative purposes only. These scripts require substantial
 
 The results of the final script in ```src``` is a weighted edgelist, which is to then be read into the network analysis software [Gephi](https://gephi.org/).
 
-## Output
+## Structure
 
-There are a number of relevant and interrelated outputs in the ```output``` folder. These are:
+The repo has contains the following folders:
+
+| File | Description|
+|--------|:-----------|
+| data | The XML text files used for the analysis |
+| metadata | Metadata relating to the corpus and manually corrected character names |
+| output | Tables of data produced by the network analysis |
+
+There are a number of subfolders in the ```output``` folder. These are:
 
 | File | Description|
 |--------|:-----------|
